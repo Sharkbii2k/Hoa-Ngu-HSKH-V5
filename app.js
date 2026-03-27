@@ -42,13 +42,6 @@ function speak(text){
 $('#playSampleBtn').addEventListener('click', ()=> speak('你好，欢迎使用花语HSK。'));
 $$('[data-speak]').forEach(btn => btn.addEventListener('click', ()=> speak(btn.dataset.speak)));
 
-$('#toggleLearningBtn').addEventListener('click', ()=>{
-  document.body.classList.toggle('screen-learning');
-  toast(document.body.classList.contains('screen-learning')
-    ? 'Đã bật chế độ học. Background được làm mờ để dễ tập trung.'
-    : 'Đã trở về chế độ giới thiệu.');
-});
-
 function initSakura(){
   const layer = document.getElementById('sakuraLayer');
   const count = window.innerWidth < 520 ? 16 : 28;
