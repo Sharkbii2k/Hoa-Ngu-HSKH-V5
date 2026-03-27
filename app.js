@@ -15,6 +15,8 @@ function toast(msg){
   $('#notice').textContent = msg;
 }
 
+const auth = firebase.auth();
+const db = firebase.firestore();
 $('#registerBtn').addEventListener('click', async () => {
   const email = $('#registerEmail')?.value?.trim();
   const password = $('#registerPassword')?.value?.trim();
