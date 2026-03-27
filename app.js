@@ -23,19 +23,24 @@ $('#registerBtn').addEventListener('click', ()=>{
   toast('V5 đang chờ firebaseConfig. Khi cắm xong, tài khoản đầu tiên có thể bootstrap quyền admin.');
 });
 
-function getChineseVoice(){
+function getChineseVoice() {
   const voices = speechSynthesis.getVoices();
-  return voices.find(v => (v.lang || '').toLowerCase().includes('zh'))
-      || voices.find(v => /tingting|mei|sin-ji/i.test(v.name || ''))
-      || null;
+
+  return voices.find(v =>
+    v.lang.toLowerCase().includes("zh") ||
+    /ting|mei|siri/i.test(v.name)
+  ) || null;
 }
-function speak(text){
+function speak(text) {
   const utter = new SpeechSynthesisUtterance(text);
-  utter.lang = 'zh-CN';
-  utter.rate = 0.92;
+
+  utter.lang = "zh-CN";
+  utter.rate = 0.9;
   utter.pitch = 1;
+
   const voice = getChineseVoice();
-  if(voice) utter.voice = voice;
+  if (voice) utter.voice = voice;
+
   speechSynthesis.cancel();
   speechSynthesis.speak(utter);
 }
@@ -58,3 +63,9 @@ function initSakura(){
 }
 initSakura();
 window.speechSynthesis?.addEventListener?.('voiceschanged', ()=>{});
+speechSynthesis.onvoiceschanged = () => {
+  console.log("Voices loaded:", speechSynthesis.getVoices());
+};
+document.body.addEventListener("click", () => {
+  speechSynthesis.getVoices();
+}, { once: true });
