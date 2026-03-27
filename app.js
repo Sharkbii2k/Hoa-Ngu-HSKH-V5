@@ -72,8 +72,10 @@ $('#loginBtn').addEventListener('click', async () => {
 
     toast(profile?.role === 'admin' ? 'Đăng nhập Admin thành công.' : 'Đăng nhập thành công.');
   } catch (err) {
-    toast('Sai email hoặc mật khẩu.');
-  }
+catch (err) {
+  console.log("LOGIN ERROR:", err);
+  toast(err.message);
+}
 });
 
 function getChineseVoice() {
