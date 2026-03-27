@@ -15,12 +15,63 @@ function toast(msg){
   $('#notice').textContent = msg;
 }
 
-$('#loginBtn').addEventListener('click', ()=>{
-  toast('V5 đang chờ bạn cắm Firebase. Sau đó sẽ đăng nhập và đồng bộ đa thiết bị.');
+$('#registerBtn').addEventListener('click', async () => {
+  const email = $('#registerEmail')?.value?.trim();
+  const password = $('#registerPassword')?.value?.trim();
+
+  if (!email || !password) {
+    toast('Vui lòng nhập email và mật khẩu.');
+    return;
+  }
+
+  try {
+    const userCred = await auth.createUserWithEmailAndPassword(email, password);
+    const uid = userCred.user.uid;
+
+    // kiểm tra đã có admin chưa
+    const adminSnap = await db.collection('users').where('role', '==', 'admin').limit(1).get();
+    const role = adminSnap.empty ? 'admin' : 'user';
+
+    await db.collection('users').doc(uid).set({
+      email,
+      role,
+      status: 'active',
+      vipLevels: role === 'admin' ? ['HSK1','HSK2','HSK3','HSK4','HSK5','HSK6','HSK7','HSK8','HSK9','HSKK'] : ['HSK1'],
+      createdAt: firebase.firestore.FieldValue.serverTimestamp()
+    });
+
+    toast(role === 'admin' ? 'Đăng ký thành công. Đây là tài khoản Admin đầu tiên.' : 'Đăng ký thành công.');
+  } catch (err) {
+    toast(err.message || 'Đăng ký thất bại.');
+  }
 });
 
-$('#registerBtn').addEventListener('click', ()=>{
-  toast('V5 đang chờ firebaseConfig. Khi cắm xong, tài khoản đầu tiên có thể bootstrap quyền admin.');
+$('#loginBtn').addEventListener('click', async () => {
+  const email = $('#loginEmail')?.value?.trim();
+  const password = $('#loginPassword')?.value?.trim();
+
+  if (!email || !password) {
+    toast('Vui lòng nhập email và mật khẩu.');
+    return;
+  }
+
+  try {
+    const userCred = await auth.signInWithEmailAndPassword(email, password);
+    const uid = userCred.user.uid;
+
+    const doc = await db.collection('users').doc(uid).get();
+    const profile = doc.exists ? doc.data() : null;
+
+    if (profile && profile.status === 'locked') {
+      await auth.signOut();
+      toast('Tài khoản của bạn đang bị khóa.');
+      return;
+    }
+
+    toast(profile?.role === 'admin' ? 'Đăng nhập Admin thành công.' : 'Đăng nhập thành công.');
+  } catch (err) {
+    toast('Sai email hoặc mật khẩu.');
+  }
 });
 
 function getChineseVoice() {
