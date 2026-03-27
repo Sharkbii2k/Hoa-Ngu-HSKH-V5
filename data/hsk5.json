@@ -1,0 +1,897 @@
+{
+  "level": "HSK5",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "meaning_vi": "duy trì",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“保持”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “保持”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “保持”."
+        },
+        {
+          "hanzi": "老师说“保持”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “保持” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “保持” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "保持"
+    },
+    {
+      "id": 2,
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "meaning_vi": "bảo hiểm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“保险”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “保险”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “保险”."
+        },
+        {
+          "hanzi": "老师说“保险”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “保险” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “保险” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "保险"
+    },
+    {
+      "id": 3,
+      "hanzi": "表达",
+      "pinyin": "biǎodá",
+      "meaning_vi": "biểu đạt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“表达”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “表达”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “表达”."
+        },
+        {
+          "hanzi": "老师说“表达”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “表达” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “表达” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "表达"
+    },
+    {
+      "id": 4,
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "meaning_vi": "tham khảo",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“参考”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “参考”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “参考”."
+        },
+        {
+          "hanzi": "老师说“参考”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “参考” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “参考” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "参考"
+    },
+    {
+      "id": 5,
+      "hanzi": "产生",
+      "pinyin": "chǎnshēng",
+      "meaning_vi": "sinh ra",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“产生”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “产生”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “产生”."
+        },
+        {
+          "hanzi": "老师说“产生”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “产生” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “产生” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "产生"
+    },
+    {
+      "id": 6,
+      "hanzi": "程序",
+      "pinyin": "chéngxù",
+      "meaning_vi": "chương trình",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“程序”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “程序”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “程序”."
+        },
+        {
+          "hanzi": "老师说“程序”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “程序” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “程序” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "程序"
+    },
+    {
+      "id": 7,
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "meaning_vi": "liên tục",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“持续”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “持续”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “持续”."
+        },
+        {
+          "hanzi": "老师说“持续”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “持续” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “持续” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "持续"
+    },
+    {
+      "id": 8,
+      "hanzi": "促进",
+      "pinyin": "cùjìn",
+      "meaning_vi": "thúc đẩy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“促进”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “促进”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “促进”."
+        },
+        {
+          "hanzi": "老师说“促进”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “促进” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “促进” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "促进"
+    },
+    {
+      "id": 9,
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "meaning_vi": "đạt tới",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“达到”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “达到”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “达到”."
+        },
+        {
+          "hanzi": "老师说“达到”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “达到” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “达到” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "达到"
+    },
+    {
+      "id": 10,
+      "hanzi": "导致",
+      "pinyin": "dǎozhì",
+      "meaning_vi": "dẫn đến",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“导致”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “导致”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “导致”."
+        },
+        {
+          "hanzi": "老师说“导致”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “导致” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “导致” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "导致"
+    },
+    {
+      "id": 11,
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "meaning_vi": "hiệu suất",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“效率”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “效率”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “效率”."
+        },
+        {
+          "hanzi": "老师说“效率”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “效率” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “效率” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "效率"
+    },
+    {
+      "id": 12,
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "meaning_vi": "giao lưu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“交流”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “交流”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “交流”."
+        },
+        {
+          "hanzi": "老师说“交流”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “交流” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “交流” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "交流"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "meaning_vi": "duy trì",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“保持”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “保持”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “保持”."
+        },
+        {
+          "hanzi": "老师说“保持”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “保持” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “保持” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "保持"
+    },
+    {
+      "id": 2,
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "meaning_vi": "bảo hiểm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“保险”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “保险”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “保险”."
+        },
+        {
+          "hanzi": "老师说“保险”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “保险” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “保险” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "保险"
+    },
+    {
+      "id": 3,
+      "hanzi": "表达",
+      "pinyin": "biǎodá",
+      "meaning_vi": "biểu đạt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“表达”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “表达”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “表达”."
+        },
+        {
+          "hanzi": "老师说“表达”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “表达” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “表达” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "表达"
+    },
+    {
+      "id": 4,
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "meaning_vi": "tham khảo",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“参考”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “参考”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “参考”."
+        },
+        {
+          "hanzi": "老师说“参考”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “参考” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “参考” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "参考"
+    },
+    {
+      "id": 5,
+      "hanzi": "产生",
+      "pinyin": "chǎnshēng",
+      "meaning_vi": "sinh ra",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“产生”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “产生”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “产生”."
+        },
+        {
+          "hanzi": "老师说“产生”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “产生” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “产生” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "产生"
+    },
+    {
+      "id": 6,
+      "hanzi": "程序",
+      "pinyin": "chéngxù",
+      "meaning_vi": "chương trình",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“程序”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “程序”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “程序”."
+        },
+        {
+          "hanzi": "老师说“程序”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “程序” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “程序” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "程序"
+    },
+    {
+      "id": 7,
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "meaning_vi": "liên tục",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“持续”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “持续”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “持续”."
+        },
+        {
+          "hanzi": "老师说“持续”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “持续” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “持续” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "持续"
+    },
+    {
+      "id": 8,
+      "hanzi": "促进",
+      "pinyin": "cùjìn",
+      "meaning_vi": "thúc đẩy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“促进”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “促进”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “促进”."
+        },
+        {
+          "hanzi": "老师说“促进”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “促进” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “促进” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "促进"
+    },
+    {
+      "id": 9,
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "meaning_vi": "đạt tới",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“达到”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “达到”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “达到”."
+        },
+        {
+          "hanzi": "老师说“达到”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “达到” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “达到” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "达到"
+    },
+    {
+      "id": 10,
+      "hanzi": "导致",
+      "pinyin": "dǎozhì",
+      "meaning_vi": "dẫn đến",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“导致”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “导致”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “导致”."
+        },
+        {
+          "hanzi": "老师说“导致”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “导致” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “导致” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "导致"
+    },
+    {
+      "id": 11,
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "meaning_vi": "hiệu suất",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“效率”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “效率”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “效率”."
+        },
+        {
+          "hanzi": "老师说“效率”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “效率” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “效率” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "效率"
+    },
+    {
+      "id": 12,
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "meaning_vi": "giao lưu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“交流”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “交流”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “交流”."
+        },
+        {
+          "hanzi": "老师说“交流”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “交流” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “交流” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK5",
+      "audio_text": "交流"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "duy trì",
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "audio_text": "保持"
+    },
+    {
+      "vi": "bảo hiểm",
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "audio_text": "保险"
+    },
+    {
+      "vi": "biểu đạt",
+      "hanzi": "表达",
+      "pinyin": "biǎodá",
+      "audio_text": "表达"
+    },
+    {
+      "vi": "tham khảo",
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "audio_text": "参考"
+    },
+    {
+      "vi": "sinh ra",
+      "hanzi": "产生",
+      "pinyin": "chǎnshēng",
+      "audio_text": "产生"
+    },
+    {
+      "vi": "chương trình",
+      "hanzi": "程序",
+      "pinyin": "chéngxù",
+      "audio_text": "程序"
+    },
+    {
+      "vi": "liên tục",
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "audio_text": "持续"
+    },
+    {
+      "vi": "thúc đẩy",
+      "hanzi": "促进",
+      "pinyin": "cùjìn",
+      "audio_text": "促进"
+    },
+    {
+      "vi": "đạt tới",
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "audio_text": "达到"
+    },
+    {
+      "vi": "dẫn đến",
+      "hanzi": "导致",
+      "pinyin": "dǎozhì",
+      "audio_text": "导致"
+    },
+    {
+      "vi": "hiệu suất",
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "audio_text": "效率"
+    },
+    {
+      "vi": "giao lưu",
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "audio_text": "交流"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK5",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “保持”",
+      "options": [
+        "tham khảo",
+        "duy trì",
+        "biểu đạt",
+        "bảo hiểm"
+      ],
+      "answer": "duy trì",
+      "explanation": "保持 (bǎochí) nghĩa là “duy trì”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “保险”",
+      "options": [
+        "duy trì",
+        "biểu đạt",
+        "tham khảo",
+        "bảo hiểm"
+      ],
+      "answer": "bảo hiểm",
+      "explanation": "保险 (bǎoxiǎn) nghĩa là “bảo hiểm”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “表达”",
+      "options": [
+        "tham khảo",
+        "biểu đạt",
+        "bảo hiểm",
+        "duy trì"
+      ],
+      "answer": "biểu đạt",
+      "explanation": "表达 (biǎodá) nghĩa là “biểu đạt”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “参考”",
+      "options": [
+        "bảo hiểm",
+        "tham khảo",
+        "biểu đạt",
+        "duy trì"
+      ],
+      "answer": "tham khảo",
+      "explanation": "参考 (cānkǎo) nghĩa là “tham khảo”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “产生”",
+      "options": [
+        "sinh ra",
+        "duy trì",
+        "biểu đạt",
+        "bảo hiểm"
+      ],
+      "answer": "sinh ra",
+      "explanation": "产生 (chǎnshēng) nghĩa là “sinh ra”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “程序”",
+      "options": [
+        "biểu đạt",
+        "bảo hiểm",
+        "duy trì",
+        "chương trình"
+      ],
+      "answer": "chương trình",
+      "explanation": "程序 (chéngxù) nghĩa là “chương trình”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “持续”",
+      "options": [
+        "biểu đạt",
+        "duy trì",
+        "liên tục",
+        "bảo hiểm"
+      ],
+      "answer": "liên tục",
+      "explanation": "持续 (chíxù) nghĩa là “liên tục”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “促进”",
+      "options": [
+        "thúc đẩy",
+        "bảo hiểm",
+        "biểu đạt",
+        "duy trì"
+      ],
+      "answer": "thúc đẩy",
+      "explanation": "促进 (cùjìn) nghĩa là “thúc đẩy”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: duy trì",
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "audio_text": "保持"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bảo hiểm",
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "audio_text": "保险"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: biểu đạt",
+      "hanzi": "表达",
+      "pinyin": "biǎodá",
+      "audio_text": "表达"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tham khảo",
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "audio_text": "参考"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: sinh ra",
+      "hanzi": "产生",
+      "pinyin": "chǎnshēng",
+      "audio_text": "产生"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: chương trình",
+      "hanzi": "程序",
+      "pinyin": "chéngxù",
+      "audio_text": "程序"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: liên tục",
+      "hanzi": "持续",
+      "pinyin": "chíxù",
+      "audio_text": "持续"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thúc đẩy",
+      "hanzi": "促进",
+      "pinyin": "cùjìn",
+      "audio_text": "促进"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: đạt tới",
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "audio_text": "达到"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: dẫn đến",
+      "hanzi": "导致",
+      "pinyin": "dǎozhì",
+      "audio_text": "导致"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: hiệu suất",
+      "hanzi": "效率",
+      "pinyin": "xiàolǜ",
+      "audio_text": "效率"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giao lưu",
+      "hanzi": "交流",
+      "pinyin": "jiāoliú",
+      "audio_text": "交流"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “保持”.",
+      "target_words": [
+        "保持"
+      ],
+      "hint": "duy trì"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “保险”.",
+      "target_words": [
+        "保险"
+      ],
+      "hint": "bảo hiểm"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “表达”.",
+      "target_words": [
+        "表达"
+      ],
+      "hint": "biểu đạt"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “参考”.",
+      "target_words": [
+        "参考"
+      ],
+      "hint": "tham khảo"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “产生”.",
+      "target_words": [
+        "产生"
+      ],
+      "hint": "sinh ra"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “程序”.",
+      "target_words": [
+        "程序"
+      ],
+      "hint": "chương trình"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “持续”.",
+      "target_words": [
+        "持续"
+      ],
+      "hint": "liên tục"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “促进”.",
+      "target_words": [
+        "促进"
+      ],
+      "hint": "thúc đẩy"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “达到”.",
+      "target_words": [
+        "达到"
+      ],
+      "hint": "đạt tới"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “导致”.",
+      "target_words": [
+        "导致"
+      ],
+      "hint": "dẫn đến"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “效率”.",
+      "target_words": [
+        "效率"
+      ],
+      "hint": "hiệu suất"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “交流”.",
+      "target_words": [
+        "交流"
+      ],
+      "hint": "giao lưu"
+    }
+  ]
+}

@@ -1,0 +1,897 @@
+{
+  "level": "HSK3",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "meaning_vi": "kinh nghiệm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“经验”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “经验”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “经验”."
+        },
+        {
+          "hanzi": "老师说“经验”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “经验” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “经验” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "经验"
+    },
+    {
+      "id": 2,
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "meaning_vi": "sắp xếp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“安排”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “安排”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “安排”."
+        },
+        {
+          "hanzi": "老师说“安排”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “安排” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “安排” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "安排"
+    },
+    {
+      "id": 3,
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "meaning_vi": "nâng cao",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“提高”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “提高”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “提高”."
+        },
+        {
+          "hanzi": "老师说“提高”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “提高” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “提高” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "提高"
+    },
+    {
+      "id": 4,
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "meaning_vi": "chịu trách nhiệm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“负责”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “负责”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “负责”."
+        },
+        {
+          "hanzi": "老师说“负责”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “负责” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “负责” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "负责"
+    },
+    {
+      "id": 5,
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "meaning_vi": "luyện tập",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“练习”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “练习”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “练习”."
+        },
+        {
+          "hanzi": "老师说“练习”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “练习” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “练习” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "练习"
+    },
+    {
+      "id": 6,
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_vi": "đơn giản",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“简单”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “简单”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “简单”."
+        },
+        {
+          "hanzi": "老师说“简单”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “简单” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “简单” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "简单"
+    },
+    {
+      "id": 7,
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "meaning_vi": "sức khỏe",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“健康”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “健康”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “健康”."
+        },
+        {
+          "hanzi": "老师说“健康”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “健康” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “健康” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "健康"
+    },
+    {
+      "id": 8,
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "meaning_vi": "giải quyết",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“解决”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “解决”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “解决”."
+        },
+        {
+          "hanzi": "老师说“解决”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “解决” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “解决” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "解决"
+    },
+    {
+      "id": 9,
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "meaning_vi": "quyết định",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“决定”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “决定”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “决定”."
+        },
+        {
+          "hanzi": "老师说“决定”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “决定” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “决定” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "决定"
+    },
+    {
+      "id": 10,
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "meaning_vi": "thường xuyên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“经常”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “经常”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “经常”."
+        },
+        {
+          "hanzi": "老师说“经常”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “经常” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “经常” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "经常"
+    },
+    {
+      "id": 11,
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "meaning_vi": "tham gia",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“参加”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “参加”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “参加”."
+        },
+        {
+          "hanzi": "老师说“参加”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “参加” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “参加” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "参加"
+    },
+    {
+      "id": 12,
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "meaning_vi": "thay đổi",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“改变”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “改变”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “改变”."
+        },
+        {
+          "hanzi": "老师说“改变”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “改变” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “改变” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "改变"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "meaning_vi": "kinh nghiệm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“经验”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “经验”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “经验”."
+        },
+        {
+          "hanzi": "老师说“经验”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “经验” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “经验” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "经验"
+    },
+    {
+      "id": 2,
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "meaning_vi": "sắp xếp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“安排”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “安排”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “安排”."
+        },
+        {
+          "hanzi": "老师说“安排”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “安排” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “安排” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "安排"
+    },
+    {
+      "id": 3,
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "meaning_vi": "nâng cao",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“提高”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “提高”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “提高”."
+        },
+        {
+          "hanzi": "老师说“提高”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “提高” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “提高” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "提高"
+    },
+    {
+      "id": 4,
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "meaning_vi": "chịu trách nhiệm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“负责”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “负责”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “负责”."
+        },
+        {
+          "hanzi": "老师说“负责”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “负责” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “负责” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "负责"
+    },
+    {
+      "id": 5,
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "meaning_vi": "luyện tập",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“练习”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “练习”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “练习”."
+        },
+        {
+          "hanzi": "老师说“练习”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “练习” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “练习” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "练习"
+    },
+    {
+      "id": 6,
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "meaning_vi": "đơn giản",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“简单”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “简单”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “简单”."
+        },
+        {
+          "hanzi": "老师说“简单”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “简单” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “简单” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "简单"
+    },
+    {
+      "id": 7,
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "meaning_vi": "sức khỏe",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“健康”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “健康”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “健康”."
+        },
+        {
+          "hanzi": "老师说“健康”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “健康” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “健康” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "健康"
+    },
+    {
+      "id": 8,
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "meaning_vi": "giải quyết",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“解决”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “解决”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “解决”."
+        },
+        {
+          "hanzi": "老师说“解决”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “解决” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “解决” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "解决"
+    },
+    {
+      "id": 9,
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "meaning_vi": "quyết định",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“决定”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “决定”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “决定”."
+        },
+        {
+          "hanzi": "老师说“决定”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “决定” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “决定” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "决定"
+    },
+    {
+      "id": 10,
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "meaning_vi": "thường xuyên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“经常”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “经常”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “经常”."
+        },
+        {
+          "hanzi": "老师说“经常”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “经常” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “经常” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "经常"
+    },
+    {
+      "id": 11,
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "meaning_vi": "tham gia",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“参加”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “参加”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “参加”."
+        },
+        {
+          "hanzi": "老师说“参加”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “参加” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “参加” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "参加"
+    },
+    {
+      "id": 12,
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "meaning_vi": "thay đổi",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“改变”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “改变”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “改变”."
+        },
+        {
+          "hanzi": "老师说“改变”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “改变” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “改变” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK3",
+      "audio_text": "改变"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "kinh nghiệm",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "audio_text": "经验"
+    },
+    {
+      "vi": "sắp xếp",
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "audio_text": "安排"
+    },
+    {
+      "vi": "nâng cao",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "audio_text": "提高"
+    },
+    {
+      "vi": "chịu trách nhiệm",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "audio_text": "负责"
+    },
+    {
+      "vi": "luyện tập",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "audio_text": "练习"
+    },
+    {
+      "vi": "đơn giản",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "audio_text": "简单"
+    },
+    {
+      "vi": "sức khỏe",
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "audio_text": "健康"
+    },
+    {
+      "vi": "giải quyết",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "audio_text": "解决"
+    },
+    {
+      "vi": "quyết định",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "audio_text": "决定"
+    },
+    {
+      "vi": "thường xuyên",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "audio_text": "经常"
+    },
+    {
+      "vi": "tham gia",
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "audio_text": "参加"
+    },
+    {
+      "vi": "thay đổi",
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "audio_text": "改变"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK3",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “经验”",
+      "options": [
+        "chịu trách nhiệm",
+        "kinh nghiệm",
+        "nâng cao",
+        "sắp xếp"
+      ],
+      "answer": "kinh nghiệm",
+      "explanation": "经验 (jīngyàn) nghĩa là “kinh nghiệm”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “安排”",
+      "options": [
+        "kinh nghiệm",
+        "nâng cao",
+        "chịu trách nhiệm",
+        "sắp xếp"
+      ],
+      "answer": "sắp xếp",
+      "explanation": "安排 (ānpái) nghĩa là “sắp xếp”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “提高”",
+      "options": [
+        "chịu trách nhiệm",
+        "nâng cao",
+        "sắp xếp",
+        "kinh nghiệm"
+      ],
+      "answer": "nâng cao",
+      "explanation": "提高 (tígāo) nghĩa là “nâng cao”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “负责”",
+      "options": [
+        "sắp xếp",
+        "chịu trách nhiệm",
+        "nâng cao",
+        "kinh nghiệm"
+      ],
+      "answer": "chịu trách nhiệm",
+      "explanation": "负责 (fùzé) nghĩa là “chịu trách nhiệm”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “练习”",
+      "options": [
+        "luyện tập",
+        "kinh nghiệm",
+        "nâng cao",
+        "sắp xếp"
+      ],
+      "answer": "luyện tập",
+      "explanation": "练习 (liànxí) nghĩa là “luyện tập”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “简单”",
+      "options": [
+        "nâng cao",
+        "sắp xếp",
+        "kinh nghiệm",
+        "đơn giản"
+      ],
+      "answer": "đơn giản",
+      "explanation": "简单 (jiǎndān) nghĩa là “đơn giản”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “健康”",
+      "options": [
+        "nâng cao",
+        "kinh nghiệm",
+        "sức khỏe",
+        "sắp xếp"
+      ],
+      "answer": "sức khỏe",
+      "explanation": "健康 (jiànkāng) nghĩa là “sức khỏe”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “解决”",
+      "options": [
+        "giải quyết",
+        "sắp xếp",
+        "nâng cao",
+        "kinh nghiệm"
+      ],
+      "answer": "giải quyết",
+      "explanation": "解决 (jiějué) nghĩa là “giải quyết”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: kinh nghiệm",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "audio_text": "经验"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: sắp xếp",
+      "hanzi": "安排",
+      "pinyin": "ānpái",
+      "audio_text": "安排"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: nâng cao",
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "audio_text": "提高"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: chịu trách nhiệm",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "audio_text": "负责"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: luyện tập",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "audio_text": "练习"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: đơn giản",
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "audio_text": "简单"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: sức khỏe",
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "audio_text": "健康"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giải quyết",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "audio_text": "解决"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: quyết định",
+      "hanzi": "决定",
+      "pinyin": "juédìng",
+      "audio_text": "决定"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thường xuyên",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "audio_text": "经常"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tham gia",
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "audio_text": "参加"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thay đổi",
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "audio_text": "改变"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “经验”.",
+      "target_words": [
+        "经验"
+      ],
+      "hint": "kinh nghiệm"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “安排”.",
+      "target_words": [
+        "安排"
+      ],
+      "hint": "sắp xếp"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “提高”.",
+      "target_words": [
+        "提高"
+      ],
+      "hint": "nâng cao"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “负责”.",
+      "target_words": [
+        "负责"
+      ],
+      "hint": "chịu trách nhiệm"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “练习”.",
+      "target_words": [
+        "练习"
+      ],
+      "hint": "luyện tập"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “简单”.",
+      "target_words": [
+        "简单"
+      ],
+      "hint": "đơn giản"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “健康”.",
+      "target_words": [
+        "健康"
+      ],
+      "hint": "sức khỏe"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “解决”.",
+      "target_words": [
+        "解决"
+      ],
+      "hint": "giải quyết"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “决定”.",
+      "target_words": [
+        "决定"
+      ],
+      "hint": "quyết định"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “经常”.",
+      "target_words": [
+        "经常"
+      ],
+      "hint": "thường xuyên"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “参加”.",
+      "target_words": [
+        "参加"
+      ],
+      "hint": "tham gia"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “改变”.",
+      "target_words": [
+        "改变"
+      ],
+      "hint": "thay đổi"
+    }
+  ]
+}

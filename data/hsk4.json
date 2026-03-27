@@ -1,0 +1,897 @@
+{
+  "level": "HSK4",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "meaning_vi": "tiêu chuẩn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“标准”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “标准”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “标准”."
+        },
+        {
+          "hanzi": "老师说“标准”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “标准” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “标准” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "标准"
+    },
+    {
+      "id": 2,
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "meaning_vi": "thành công",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“成功”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “成功”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “成功”."
+        },
+        {
+          "hanzi": "老师说“成功”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “成功” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “成功” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "成功"
+    },
+    {
+      "id": 3,
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "meaning_vi": "thành thật",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“诚实”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “诚实”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “诚实”."
+        },
+        {
+          "hanzi": "老师说“诚实”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “诚实” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “诚实” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "诚实"
+    },
+    {
+      "id": 4,
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "meaning_vi": "phát triển",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“发展”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “发展”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “发展”."
+        },
+        {
+          "hanzi": "老师说“发展”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “发展” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “发展” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "发展"
+    },
+    {
+      "id": 5,
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_vi": "phương pháp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“方法”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “方法”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “方法”."
+        },
+        {
+          "hanzi": "老师说“方法”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “方法” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “方法” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "方法"
+    },
+    {
+      "id": 6,
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "meaning_vi": "phong phú",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“丰富”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “丰富”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “丰富”."
+        },
+        {
+          "hanzi": "老师说“丰富”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “丰富” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “丰富” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "丰富"
+    },
+    {
+      "id": 7,
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning_vi": "biết ơn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“感谢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “感谢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “感谢”."
+        },
+        {
+          "hanzi": "老师说“感谢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “感谢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “感谢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "感谢"
+    },
+    {
+      "id": 8,
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“共同”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “共同”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “共同”."
+        },
+        {
+          "hanzi": "老师说“共同”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “共同” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “共同” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "共同"
+    },
+    {
+      "id": 9,
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "meaning_vi": "tiền lương",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“工资”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “工资”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “工资”."
+        },
+        {
+          "hanzi": "老师说“工资”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “工资” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “工资” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "工资"
+    },
+    {
+      "id": 10,
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "meaning_vi": "môi trường",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“环境”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “环境”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “环境”."
+        },
+        {
+          "hanzi": "老师说“环境”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “环境” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “环境” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "环境"
+    },
+    {
+      "id": 11,
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "meaning_vi": "hiểu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“理解”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “理解”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “理解”."
+        },
+        {
+          "hanzi": "老师说“理解”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “理解” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “理解” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "理解"
+    },
+    {
+      "id": 12,
+      "hanzi": "任务",
+      "pinyin": "rènwu",
+      "meaning_vi": "nhiệm vụ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“任务”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “任务”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “任务”."
+        },
+        {
+          "hanzi": "老师说“任务”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “任务” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “任务” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "任务"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "meaning_vi": "tiêu chuẩn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“标准”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “标准”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “标准”."
+        },
+        {
+          "hanzi": "老师说“标准”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “标准” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “标准” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "标准"
+    },
+    {
+      "id": 2,
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "meaning_vi": "thành công",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“成功”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “成功”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “成功”."
+        },
+        {
+          "hanzi": "老师说“成功”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “成功” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “成功” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "成功"
+    },
+    {
+      "id": 3,
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "meaning_vi": "thành thật",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“诚实”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “诚实”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “诚实”."
+        },
+        {
+          "hanzi": "老师说“诚实”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “诚实” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “诚实” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "诚实"
+    },
+    {
+      "id": 4,
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "meaning_vi": "phát triển",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“发展”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “发展”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “发展”."
+        },
+        {
+          "hanzi": "老师说“发展”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “发展” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “发展” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "发展"
+    },
+    {
+      "id": 5,
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_vi": "phương pháp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“方法”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “方法”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “方法”."
+        },
+        {
+          "hanzi": "老师说“方法”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “方法” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “方法” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "方法"
+    },
+    {
+      "id": 6,
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "meaning_vi": "phong phú",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“丰富”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “丰富”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “丰富”."
+        },
+        {
+          "hanzi": "老师说“丰富”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “丰富” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “丰富” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "丰富"
+    },
+    {
+      "id": 7,
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning_vi": "biết ơn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“感谢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “感谢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “感谢”."
+        },
+        {
+          "hanzi": "老师说“感谢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “感谢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “感谢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "感谢"
+    },
+    {
+      "id": 8,
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“共同”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “共同”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “共同”."
+        },
+        {
+          "hanzi": "老师说“共同”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “共同” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “共同” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "共同"
+    },
+    {
+      "id": 9,
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "meaning_vi": "tiền lương",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“工资”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “工资”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “工资”."
+        },
+        {
+          "hanzi": "老师说“工资”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “工资” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “工资” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "工资"
+    },
+    {
+      "id": 10,
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "meaning_vi": "môi trường",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“环境”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “环境”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “环境”."
+        },
+        {
+          "hanzi": "老师说“环境”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “环境” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “环境” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "环境"
+    },
+    {
+      "id": 11,
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "meaning_vi": "hiểu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“理解”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “理解”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “理解”."
+        },
+        {
+          "hanzi": "老师说“理解”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “理解” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “理解” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "理解"
+    },
+    {
+      "id": 12,
+      "hanzi": "任务",
+      "pinyin": "rènwu",
+      "meaning_vi": "nhiệm vụ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“任务”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “任务”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “任务”."
+        },
+        {
+          "hanzi": "老师说“任务”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “任务” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “任务” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK4",
+      "audio_text": "任务"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "tiêu chuẩn",
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "audio_text": "标准"
+    },
+    {
+      "vi": "thành công",
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "audio_text": "成功"
+    },
+    {
+      "vi": "thành thật",
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "audio_text": "诚实"
+    },
+    {
+      "vi": "phát triển",
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "audio_text": "发展"
+    },
+    {
+      "vi": "phương pháp",
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "audio_text": "方法"
+    },
+    {
+      "vi": "phong phú",
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "audio_text": "丰富"
+    },
+    {
+      "vi": "biết ơn",
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "audio_text": "感谢"
+    },
+    {
+      "vi": "cùng nhau",
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "audio_text": "共同"
+    },
+    {
+      "vi": "tiền lương",
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "audio_text": "工资"
+    },
+    {
+      "vi": "môi trường",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "audio_text": "环境"
+    },
+    {
+      "vi": "hiểu",
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "audio_text": "理解"
+    },
+    {
+      "vi": "nhiệm vụ",
+      "hanzi": "任务",
+      "pinyin": "rènwu",
+      "audio_text": "任务"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK4",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “标准”",
+      "options": [
+        "phát triển",
+        "tiêu chuẩn",
+        "thành thật",
+        "thành công"
+      ],
+      "answer": "tiêu chuẩn",
+      "explanation": "标准 (biāozhǔn) nghĩa là “tiêu chuẩn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “成功”",
+      "options": [
+        "tiêu chuẩn",
+        "thành thật",
+        "phát triển",
+        "thành công"
+      ],
+      "answer": "thành công",
+      "explanation": "成功 (chénggōng) nghĩa là “thành công”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “诚实”",
+      "options": [
+        "phát triển",
+        "thành thật",
+        "thành công",
+        "tiêu chuẩn"
+      ],
+      "answer": "thành thật",
+      "explanation": "诚实 (chéngshí) nghĩa là “thành thật”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “发展”",
+      "options": [
+        "thành công",
+        "phát triển",
+        "thành thật",
+        "tiêu chuẩn"
+      ],
+      "answer": "phát triển",
+      "explanation": "发展 (fāzhǎn) nghĩa là “phát triển”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “方法”",
+      "options": [
+        "phương pháp",
+        "tiêu chuẩn",
+        "thành thật",
+        "thành công"
+      ],
+      "answer": "phương pháp",
+      "explanation": "方法 (fāngfǎ) nghĩa là “phương pháp”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “丰富”",
+      "options": [
+        "thành thật",
+        "thành công",
+        "tiêu chuẩn",
+        "phong phú"
+      ],
+      "answer": "phong phú",
+      "explanation": "丰富 (fēngfù) nghĩa là “phong phú”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “感谢”",
+      "options": [
+        "thành thật",
+        "tiêu chuẩn",
+        "biết ơn",
+        "thành công"
+      ],
+      "answer": "biết ơn",
+      "explanation": "感谢 (gǎnxiè) nghĩa là “biết ơn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “共同”",
+      "options": [
+        "cùng nhau",
+        "thành công",
+        "thành thật",
+        "tiêu chuẩn"
+      ],
+      "answer": "cùng nhau",
+      "explanation": "共同 (gòngtóng) nghĩa là “cùng nhau”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tiêu chuẩn",
+      "hanzi": "标准",
+      "pinyin": "biāozhǔn",
+      "audio_text": "标准"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thành công",
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "audio_text": "成功"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thành thật",
+      "hanzi": "诚实",
+      "pinyin": "chéngshí",
+      "audio_text": "诚实"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: phát triển",
+      "hanzi": "发展",
+      "pinyin": "fāzhǎn",
+      "audio_text": "发展"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: phương pháp",
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "audio_text": "方法"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: phong phú",
+      "hanzi": "丰富",
+      "pinyin": "fēngfù",
+      "audio_text": "丰富"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: biết ơn",
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "audio_text": "感谢"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cùng nhau",
+      "hanzi": "共同",
+      "pinyin": "gòngtóng",
+      "audio_text": "共同"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tiền lương",
+      "hanzi": "工资",
+      "pinyin": "gōngzī",
+      "audio_text": "工资"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: môi trường",
+      "hanzi": "环境",
+      "pinyin": "huánjìng",
+      "audio_text": "环境"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: hiểu",
+      "hanzi": "理解",
+      "pinyin": "lǐjiě",
+      "audio_text": "理解"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: nhiệm vụ",
+      "hanzi": "任务",
+      "pinyin": "rènwu",
+      "audio_text": "任务"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “标准”.",
+      "target_words": [
+        "标准"
+      ],
+      "hint": "tiêu chuẩn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “成功”.",
+      "target_words": [
+        "成功"
+      ],
+      "hint": "thành công"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “诚实”.",
+      "target_words": [
+        "诚实"
+      ],
+      "hint": "thành thật"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “发展”.",
+      "target_words": [
+        "发展"
+      ],
+      "hint": "phát triển"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “方法”.",
+      "target_words": [
+        "方法"
+      ],
+      "hint": "phương pháp"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “丰富”.",
+      "target_words": [
+        "丰富"
+      ],
+      "hint": "phong phú"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “感谢”.",
+      "target_words": [
+        "感谢"
+      ],
+      "hint": "biết ơn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “共同”.",
+      "target_words": [
+        "共同"
+      ],
+      "hint": "cùng nhau"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “工资”.",
+      "target_words": [
+        "工资"
+      ],
+      "hint": "tiền lương"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “环境”.",
+      "target_words": [
+        "环境"
+      ],
+      "hint": "môi trường"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “理解”.",
+      "target_words": [
+        "理解"
+      ],
+      "hint": "hiểu"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “任务”.",
+      "target_words": [
+        "任务"
+      ],
+      "hint": "nhiệm vụ"
+    }
+  ]
+}

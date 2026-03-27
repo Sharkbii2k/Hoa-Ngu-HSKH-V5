@@ -1,0 +1,714 @@
+{
+  "level": "HSK7",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "meaning_vi": "cân bằng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“兼顾”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “兼顾”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “兼顾”."
+        },
+        {
+          "hanzi": "老师说“兼顾”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “兼顾” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “兼顾” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "兼顾"
+    },
+    {
+      "id": 2,
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "meaning_vi": "thấu hiểu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“洞察”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “洞察”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “洞察”."
+        },
+        {
+          "hanzi": "老师说“洞察”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “洞察” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “洞察” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "洞察"
+    },
+    {
+      "id": 3,
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "meaning_vi": "thời cơ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“契机”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “契机”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “契机”."
+        },
+        {
+          "hanzi": "老师说“契机”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “契机” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “契机” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "契机"
+    },
+    {
+      "id": 4,
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "meaning_vi": "giới hạn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“局限”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “局限”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “局限”."
+        },
+        {
+          "hanzi": "老师说“局限”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “局限” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “局限” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "局限"
+    },
+    {
+      "id": 5,
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "meaning_vi": "mạch lạc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“脉络”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “脉络”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “脉络”."
+        },
+        {
+          "hanzi": "老师说“脉络”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “脉络” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “脉络” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "脉络"
+    },
+    {
+      "id": 6,
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "meaning_vi": "cân nhắc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“权衡”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “权衡”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “权衡”."
+        },
+        {
+          "hanzi": "老师说“权衡”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “权衡” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “权衡” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "权衡"
+    },
+    {
+      "id": 7,
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "meaning_vi": "giải thích",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“诠释”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “诠释”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “诠释”."
+        },
+        {
+          "hanzi": "老师说“诠释”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “诠释” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “诠释” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "诠释"
+    },
+    {
+      "id": 8,
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "meaning_vi": "điều phối",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“统筹”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “统筹”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “统筹”."
+        },
+        {
+          "hanzi": "老师说“统筹”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “统筹” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “统筹” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "统筹"
+    },
+    {
+      "id": 9,
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "meaning_vi": "khung tư duy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“框架”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “框架”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “框架”."
+        },
+        {
+          "hanzi": "老师说“框架”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “框架” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “框架” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "框架"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "meaning_vi": "cân bằng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“兼顾”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “兼顾”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “兼顾”."
+        },
+        {
+          "hanzi": "老师说“兼顾”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “兼顾” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “兼顾” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "兼顾"
+    },
+    {
+      "id": 2,
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "meaning_vi": "thấu hiểu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“洞察”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “洞察”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “洞察”."
+        },
+        {
+          "hanzi": "老师说“洞察”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “洞察” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “洞察” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "洞察"
+    },
+    {
+      "id": 3,
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "meaning_vi": "thời cơ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“契机”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “契机”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “契机”."
+        },
+        {
+          "hanzi": "老师说“契机”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “契机” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “契机” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "契机"
+    },
+    {
+      "id": 4,
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "meaning_vi": "giới hạn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“局限”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “局限”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “局限”."
+        },
+        {
+          "hanzi": "老师说“局限”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “局限” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “局限” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "局限"
+    },
+    {
+      "id": 5,
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "meaning_vi": "mạch lạc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“脉络”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “脉络”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “脉络”."
+        },
+        {
+          "hanzi": "老师说“脉络”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “脉络” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “脉络” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "脉络"
+    },
+    {
+      "id": 6,
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "meaning_vi": "cân nhắc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“权衡”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “权衡”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “权衡”."
+        },
+        {
+          "hanzi": "老师说“权衡”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “权衡” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “权衡” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "权衡"
+    },
+    {
+      "id": 7,
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "meaning_vi": "giải thích",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“诠释”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “诠释”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “诠释”."
+        },
+        {
+          "hanzi": "老师说“诠释”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “诠释” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “诠释” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "诠释"
+    },
+    {
+      "id": 8,
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "meaning_vi": "điều phối",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“统筹”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “统筹”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “统筹”."
+        },
+        {
+          "hanzi": "老师说“统筹”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “统筹” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “统筹” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "统筹"
+    },
+    {
+      "id": 9,
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "meaning_vi": "khung tư duy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“框架”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “框架”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “框架”."
+        },
+        {
+          "hanzi": "老师说“框架”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “框架” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “框架” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK7",
+      "audio_text": "框架"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "cân bằng",
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "audio_text": "兼顾"
+    },
+    {
+      "vi": "thấu hiểu",
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "audio_text": "洞察"
+    },
+    {
+      "vi": "thời cơ",
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "audio_text": "契机"
+    },
+    {
+      "vi": "giới hạn",
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "audio_text": "局限"
+    },
+    {
+      "vi": "mạch lạc",
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "audio_text": "脉络"
+    },
+    {
+      "vi": "cân nhắc",
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "audio_text": "权衡"
+    },
+    {
+      "vi": "giải thích",
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "audio_text": "诠释"
+    },
+    {
+      "vi": "điều phối",
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "audio_text": "统筹"
+    },
+    {
+      "vi": "khung tư duy",
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "audio_text": "框架"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK7",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “兼顾”",
+      "options": [
+        "giới hạn",
+        "cân bằng",
+        "thời cơ",
+        "thấu hiểu"
+      ],
+      "answer": "cân bằng",
+      "explanation": "兼顾 (jiāngù) nghĩa là “cân bằng”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “洞察”",
+      "options": [
+        "cân bằng",
+        "thời cơ",
+        "giới hạn",
+        "thấu hiểu"
+      ],
+      "answer": "thấu hiểu",
+      "explanation": "洞察 (dòngchá) nghĩa là “thấu hiểu”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “契机”",
+      "options": [
+        "giới hạn",
+        "thời cơ",
+        "thấu hiểu",
+        "cân bằng"
+      ],
+      "answer": "thời cơ",
+      "explanation": "契机 (qìjī) nghĩa là “thời cơ”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “局限”",
+      "options": [
+        "thấu hiểu",
+        "giới hạn",
+        "thời cơ",
+        "cân bằng"
+      ],
+      "answer": "giới hạn",
+      "explanation": "局限 (júxiàn) nghĩa là “giới hạn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “脉络”",
+      "options": [
+        "mạch lạc",
+        "cân bằng",
+        "thời cơ",
+        "thấu hiểu"
+      ],
+      "answer": "mạch lạc",
+      "explanation": "脉络 (màiluò) nghĩa là “mạch lạc”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “权衡”",
+      "options": [
+        "thời cơ",
+        "thấu hiểu",
+        "cân bằng",
+        "cân nhắc"
+      ],
+      "answer": "cân nhắc",
+      "explanation": "权衡 (quánhéng) nghĩa là “cân nhắc”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “诠释”",
+      "options": [
+        "thời cơ",
+        "cân bằng",
+        "giải thích",
+        "thấu hiểu"
+      ],
+      "answer": "giải thích",
+      "explanation": "诠释 (quánshì) nghĩa là “giải thích”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “统筹”",
+      "options": [
+        "điều phối",
+        "thấu hiểu",
+        "thời cơ",
+        "cân bằng"
+      ],
+      "answer": "điều phối",
+      "explanation": "统筹 (tǒngchóu) nghĩa là “điều phối”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cân bằng",
+      "hanzi": "兼顾",
+      "pinyin": "jiāngù",
+      "audio_text": "兼顾"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thấu hiểu",
+      "hanzi": "洞察",
+      "pinyin": "dòngchá",
+      "audio_text": "洞察"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thời cơ",
+      "hanzi": "契机",
+      "pinyin": "qìjī",
+      "audio_text": "契机"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giới hạn",
+      "hanzi": "局限",
+      "pinyin": "júxiàn",
+      "audio_text": "局限"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: mạch lạc",
+      "hanzi": "脉络",
+      "pinyin": "màiluò",
+      "audio_text": "脉络"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cân nhắc",
+      "hanzi": "权衡",
+      "pinyin": "quánhéng",
+      "audio_text": "权衡"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giải thích",
+      "hanzi": "诠释",
+      "pinyin": "quánshì",
+      "audio_text": "诠释"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: điều phối",
+      "hanzi": "统筹",
+      "pinyin": "tǒngchóu",
+      "audio_text": "统筹"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: khung tư duy",
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "audio_text": "框架"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “兼顾”.",
+      "target_words": [
+        "兼顾"
+      ],
+      "hint": "cân bằng"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “洞察”.",
+      "target_words": [
+        "洞察"
+      ],
+      "hint": "thấu hiểu"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “契机”.",
+      "target_words": [
+        "契机"
+      ],
+      "hint": "thời cơ"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “局限”.",
+      "target_words": [
+        "局限"
+      ],
+      "hint": "giới hạn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “脉络”.",
+      "target_words": [
+        "脉络"
+      ],
+      "hint": "mạch lạc"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “权衡”.",
+      "target_words": [
+        "权衡"
+      ],
+      "hint": "cân nhắc"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “诠释”.",
+      "target_words": [
+        "诠释"
+      ],
+      "hint": "giải thích"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “统筹”.",
+      "target_words": [
+        "统筹"
+      ],
+      "hint": "điều phối"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “框架”.",
+      "target_words": [
+        "框架"
+      ],
+      "hint": "khung tư duy"
+    }
+  ]
+}

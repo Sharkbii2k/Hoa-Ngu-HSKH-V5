@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>Hoa Ngữ HSK V5</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+  <meta name="theme-color" content="#8b1e2d">
+</head>
+<body class="screen-auth">
+  <div class="bg-overlay"></div>
+  <div class="sakura-layer" id="sakuraLayer"></div>
+
+  <div class="app-shell">
+    <header class="hero">
+      <div class="brand">汉语 · HSK V5</div>
+      <h1 class="hero-title">Hoa Ngữ HSK</h1>
+      <p class="hero-sub">Background Trung Hoa · Tài liệu mở rộng · Âm thanh iPhone</p>
+    </header>
+
+    <main class="container">
+      <section class="card auth-card">
+        <div class="auth-tabs">
+          <button class="tab active" data-tab="login">Đăng nhập</button>
+          <button class="tab" data-tab="register">Đăng ký</button>
+        </div>
+
+        <form id="loginForm" class="auth-form active">
+          <label>Email</label>
+          <input id="loginEmail" type="email" placeholder="Email đăng nhập">
+          <label>Mật khẩu</label>
+          <input id="loginPassword" type="password" placeholder="Mật khẩu">
+          <button type="button" class="btn primary" id="loginBtn">Đăng nhập</button>
+        </form>
+
+        <form id="registerForm" class="auth-form">
+          <label>Email</label>
+          <input id="registerEmail" type="email" placeholder="Email đăng ký">
+          <label>Mật khẩu</label>
+          <input id="registerPassword" type="password" placeholder="Mật khẩu">
+          <button type="button" class="btn gold" id="registerBtn">Đăng ký</button>
+        </form>
+
+        <div id="notice" class="notice">V5 dùng giọng Trung Quốc của thiết bị. Khi vào học, nền sẽ tự mờ để dễ nhìn hơn.</div>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <h2>Âm thanh</h2>
+          <button class="btn secondary" id="playSampleBtn">🔊 Nghe thử</button>
+        </div>
+        <p class="muted">Bấm nút loa để nghe giọng tiếng Trung ngay trên iPhone hoặc Safari. Không dùng file audio nặng.</p>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <h2>Hướng dẫn giọng iPhone</h2>
+        </div>
+        <ol class="ios-guide">
+          <li>Mở <strong>Cài đặt</strong>.</li>
+          <li>Vào <strong>Trợ năng</strong>.</li>
+          <li>Chọn <strong>Nội dung được đọc</strong>.</li>
+          <li>Vào <strong>Giọng nói</strong> → <strong>Tiếng Trung</strong>.</li>
+          <li>Tải giọng như <strong>Tingting</strong>, <strong>Mei-Jia</strong> hoặc giọng bạn thấy mượt nhất.</li>
+          <li>Quay lại app và nhấn nút loa để nghe.</li>
+        </ol>
+      </section>
+
+      <section class="card learning-preview">
+        <div class="section-head">
+          <h2>Học thử</h2>
+          <button class="btn secondary" id="toggleLearningBtn">Bật chế độ học</button>
+        </div>
+        <div class="preview-grid">
+          <div class="mini-card">
+            <div class="mini-title">Flashcard</div>
+            <div class="hanzi">你好</div>
+            <div class="pinyin">nǐ hǎo</div>
+            <div class="meaning">xin chào</div>
+            <button class="icon-btn" data-speak="你好">🔊</button>
+          </div>
+          <div class="mini-card">
+            <div class="mini-title">Reflection</div>
+            <div class="meaning">bạn bè</div>
+            <div class="hanzi">朋友</div>
+            <button class="icon-btn" data-speak="朋友">🔊</button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

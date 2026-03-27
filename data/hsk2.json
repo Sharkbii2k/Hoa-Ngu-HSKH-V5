@@ -1,0 +1,1385 @@
+{
+  "level": "HSK2",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "meaning_vi": "hôm qua",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“昨天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “昨天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “昨天”."
+        },
+        {
+          "hanzi": "老师说“昨天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “昨天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “昨天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "昨天"
+    },
+    {
+      "id": 2,
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "meaning_vi": "bây giờ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“现在”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “现在”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “现在”."
+        },
+        {
+          "hanzi": "老师说“现在”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “现在” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “现在” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "现在"
+    },
+    {
+      "id": 3,
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“一起”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “一起”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “一起”."
+        },
+        {
+          "hanzi": "老师说“一起”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “一起” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “一起” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "一起"
+    },
+    {
+      "id": 4,
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "meaning_vi": "bởi vì",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“因为”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “因为”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “因为”."
+        },
+        {
+          "hanzi": "老师说“因为”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “因为” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “因为” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "因为"
+    },
+    {
+      "id": 5,
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "meaning_vi": "cho nên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“所以”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “所以”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “所以”."
+        },
+        {
+          "hanzi": "老师说“所以”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “所以” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “所以” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "所以"
+    },
+    {
+      "id": 6,
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "meaning_vi": "đã",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“已经”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “已经”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “已经”."
+        },
+        {
+          "hanzi": "老师说“已经”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “已经” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “已经” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "已经"
+    },
+    {
+      "id": 7,
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "meaning_vi": "chuẩn bị",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“准备”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “准备”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “准备”."
+        },
+        {
+          "hanzi": "老师说“准备”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “准备” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “准备” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "准备"
+    },
+    {
+      "id": 8,
+      "hanzi": "回答",
+      "pinyin": "huídá",
+      "meaning_vi": "trả lời",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“回答”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “回答”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “回答”."
+        },
+        {
+          "hanzi": "老师说“回答”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “回答” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “回答” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "回答"
+    },
+    {
+      "id": 9,
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "meaning_vi": "giúp đỡ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“帮助”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “帮助”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “帮助”."
+        },
+        {
+          "hanzi": "老师说“帮助”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “帮助” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “帮助” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "帮助"
+    },
+    {
+      "id": 10,
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "meaning_vi": "bắt đầu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“开始”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “开始”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “开始”."
+        },
+        {
+          "hanzi": "老师说“开始”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “开始” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “开始” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "开始"
+    },
+    {
+      "id": 11,
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "meaning_vi": "vận động",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“运动”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “运动”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “运动”."
+        },
+        {
+          "hanzi": "老师说“运动”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “运动” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “运动” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "运动"
+    },
+    {
+      "id": 12,
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "meaning_vi": "vấn đề",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“问题”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “问题”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “问题”."
+        },
+        {
+          "hanzi": "老师说“问题”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “问题” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “问题” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "问题"
+    },
+    {
+      "id": 13,
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "meaning_vi": "thời gian",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“时间”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “时间”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “时间”."
+        },
+        {
+          "hanzi": "老师说“时间”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “时间” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “时间” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "时间"
+    },
+    {
+      "id": 14,
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "meaning_vi": "hy vọng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“希望”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “希望”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “希望”."
+        },
+        {
+          "hanzi": "老师说“希望”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “希望” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “希望” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "希望"
+    },
+    {
+      "id": 15,
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "meaning_vi": "du lịch",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“旅游”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “旅游”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “旅游”."
+        },
+        {
+          "hanzi": "老师说“旅游”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “旅游” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “旅游” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "旅游"
+    },
+    {
+      "id": 16,
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "meaning_vi": "cảm thấy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“觉得”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “觉得”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “觉得”."
+        },
+        {
+          "hanzi": "老师说“觉得”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “觉得” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “觉得” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "觉得"
+    },
+    {
+      "id": 17,
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "meaning_vi": "quan trọng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“重要”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “重要”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “重要”."
+        },
+        {
+          "hanzi": "老师说“重要”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “重要” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “重要” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "重要"
+    },
+    {
+      "id": 18,
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "meaning_vi": "nên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“应该”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “应该”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “应该”."
+        },
+        {
+          "hanzi": "老师说“应该”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “应该” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “应该” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "应该"
+    },
+    {
+      "id": 19,
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "meaning_vi": "bên ngoài",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“外面”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “外面”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “外面”."
+        },
+        {
+          "hanzi": "老师说“外面”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “外面” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “外面” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "外面"
+    },
+    {
+      "id": 20,
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "meaning_vi": "căn phòng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“房间”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “房间”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “房间”."
+        },
+        {
+          "hanzi": "老师说“房间”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “房间” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “房间” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "房间"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "meaning_vi": "hôm qua",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“昨天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “昨天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “昨天”."
+        },
+        {
+          "hanzi": "老师说“昨天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “昨天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “昨天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "昨天"
+    },
+    {
+      "id": 2,
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "meaning_vi": "bây giờ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“现在”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “现在”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “现在”."
+        },
+        {
+          "hanzi": "老师说“现在”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “现在” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “现在” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "现在"
+    },
+    {
+      "id": 3,
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "meaning_vi": "cùng nhau",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“一起”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “一起”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “一起”."
+        },
+        {
+          "hanzi": "老师说“一起”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “一起” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “一起” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "一起"
+    },
+    {
+      "id": 4,
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "meaning_vi": "bởi vì",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“因为”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “因为”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “因为”."
+        },
+        {
+          "hanzi": "老师说“因为”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “因为” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “因为” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "因为"
+    },
+    {
+      "id": 5,
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "meaning_vi": "cho nên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“所以”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “所以”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “所以”."
+        },
+        {
+          "hanzi": "老师说“所以”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “所以” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “所以” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "所以"
+    },
+    {
+      "id": 6,
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "meaning_vi": "đã",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“已经”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “已经”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “已经”."
+        },
+        {
+          "hanzi": "老师说“已经”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “已经” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “已经” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "已经"
+    },
+    {
+      "id": 7,
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "meaning_vi": "chuẩn bị",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“准备”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “准备”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “准备”."
+        },
+        {
+          "hanzi": "老师说“准备”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “准备” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “准备” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "准备"
+    },
+    {
+      "id": 8,
+      "hanzi": "回答",
+      "pinyin": "huídá",
+      "meaning_vi": "trả lời",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“回答”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “回答”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “回答”."
+        },
+        {
+          "hanzi": "老师说“回答”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “回答” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “回答” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "回答"
+    },
+    {
+      "id": 9,
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "meaning_vi": "giúp đỡ",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“帮助”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “帮助”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “帮助”."
+        },
+        {
+          "hanzi": "老师说“帮助”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “帮助” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “帮助” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "帮助"
+    },
+    {
+      "id": 10,
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "meaning_vi": "bắt đầu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“开始”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “开始”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “开始”."
+        },
+        {
+          "hanzi": "老师说“开始”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “开始” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “开始” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "开始"
+    },
+    {
+      "id": 11,
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "meaning_vi": "vận động",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“运动”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “运动”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “运动”."
+        },
+        {
+          "hanzi": "老师说“运动”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “运动” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “运动” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "运动"
+    },
+    {
+      "id": 12,
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "meaning_vi": "vấn đề",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“问题”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “问题”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “问题”."
+        },
+        {
+          "hanzi": "老师说“问题”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “问题” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “问题” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "问题"
+    },
+    {
+      "id": 13,
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "meaning_vi": "thời gian",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“时间”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “时间”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “时间”."
+        },
+        {
+          "hanzi": "老师说“时间”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “时间” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “时间” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "时间"
+    },
+    {
+      "id": 14,
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "meaning_vi": "hy vọng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“希望”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “希望”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “希望”."
+        },
+        {
+          "hanzi": "老师说“希望”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “希望” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “希望” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "希望"
+    },
+    {
+      "id": 15,
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "meaning_vi": "du lịch",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“旅游”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “旅游”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “旅游”."
+        },
+        {
+          "hanzi": "老师说“旅游”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “旅游” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “旅游” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "旅游"
+    },
+    {
+      "id": 16,
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "meaning_vi": "cảm thấy",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“觉得”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “觉得”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “觉得”."
+        },
+        {
+          "hanzi": "老师说“觉得”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “觉得” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “觉得” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "觉得"
+    },
+    {
+      "id": 17,
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "meaning_vi": "quan trọng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“重要”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “重要”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “重要”."
+        },
+        {
+          "hanzi": "老师说“重要”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “重要” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “重要” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "重要"
+    },
+    {
+      "id": 18,
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "meaning_vi": "nên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“应该”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “应该”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “应该”."
+        },
+        {
+          "hanzi": "老师说“应该”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “应该” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “应该” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "应该"
+    },
+    {
+      "id": 19,
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "meaning_vi": "bên ngoài",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“外面”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “外面”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “外面”."
+        },
+        {
+          "hanzi": "老师说“外面”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “外面” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “外面” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "外面"
+    },
+    {
+      "id": 20,
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "meaning_vi": "căn phòng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“房间”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “房间”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “房间”."
+        },
+        {
+          "hanzi": "老师说“房间”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “房间” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “房间” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK2",
+      "audio_text": "房间"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "hôm qua",
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "audio_text": "昨天"
+    },
+    {
+      "vi": "bây giờ",
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "audio_text": "现在"
+    },
+    {
+      "vi": "cùng nhau",
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "audio_text": "一起"
+    },
+    {
+      "vi": "bởi vì",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "audio_text": "因为"
+    },
+    {
+      "vi": "cho nên",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "audio_text": "所以"
+    },
+    {
+      "vi": "đã",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "audio_text": "已经"
+    },
+    {
+      "vi": "chuẩn bị",
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "audio_text": "准备"
+    },
+    {
+      "vi": "trả lời",
+      "hanzi": "回答",
+      "pinyin": "huídá",
+      "audio_text": "回答"
+    },
+    {
+      "vi": "giúp đỡ",
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "audio_text": "帮助"
+    },
+    {
+      "vi": "bắt đầu",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "audio_text": "开始"
+    },
+    {
+      "vi": "vận động",
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "audio_text": "运动"
+    },
+    {
+      "vi": "vấn đề",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "audio_text": "问题"
+    },
+    {
+      "vi": "thời gian",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "audio_text": "时间"
+    },
+    {
+      "vi": "hy vọng",
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "audio_text": "希望"
+    },
+    {
+      "vi": "du lịch",
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "audio_text": "旅游"
+    },
+    {
+      "vi": "cảm thấy",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "audio_text": "觉得"
+    },
+    {
+      "vi": "quan trọng",
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "audio_text": "重要"
+    },
+    {
+      "vi": "nên",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "audio_text": "应该"
+    },
+    {
+      "vi": "bên ngoài",
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "audio_text": "外面"
+    },
+    {
+      "vi": "căn phòng",
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "audio_text": "房间"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK2",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “昨天”",
+      "options": [
+        "bởi vì",
+        "hôm qua",
+        "cùng nhau",
+        "bây giờ"
+      ],
+      "answer": "hôm qua",
+      "explanation": "昨天 (zuótiān) nghĩa là “hôm qua”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “现在”",
+      "options": [
+        "hôm qua",
+        "cùng nhau",
+        "bởi vì",
+        "bây giờ"
+      ],
+      "answer": "bây giờ",
+      "explanation": "现在 (xiànzài) nghĩa là “bây giờ”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “一起”",
+      "options": [
+        "bởi vì",
+        "cùng nhau",
+        "bây giờ",
+        "hôm qua"
+      ],
+      "answer": "cùng nhau",
+      "explanation": "一起 (yìqǐ) nghĩa là “cùng nhau”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “因为”",
+      "options": [
+        "bây giờ",
+        "bởi vì",
+        "cùng nhau",
+        "hôm qua"
+      ],
+      "answer": "bởi vì",
+      "explanation": "因为 (yīnwèi) nghĩa là “bởi vì”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “所以”",
+      "options": [
+        "cho nên",
+        "hôm qua",
+        "cùng nhau",
+        "bây giờ"
+      ],
+      "answer": "cho nên",
+      "explanation": "所以 (suǒyǐ) nghĩa là “cho nên”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “已经”",
+      "options": [
+        "cùng nhau",
+        "bây giờ",
+        "hôm qua",
+        "đã"
+      ],
+      "answer": "đã",
+      "explanation": "已经 (yǐjīng) nghĩa là “đã”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “准备”",
+      "options": [
+        "cùng nhau",
+        "hôm qua",
+        "chuẩn bị",
+        "bây giờ"
+      ],
+      "answer": "chuẩn bị",
+      "explanation": "准备 (zhǔnbèi) nghĩa là “chuẩn bị”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “回答”",
+      "options": [
+        "trả lời",
+        "bây giờ",
+        "cùng nhau",
+        "hôm qua"
+      ],
+      "answer": "trả lời",
+      "explanation": "回答 (huídá) nghĩa là “trả lời”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: hôm qua",
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "audio_text": "昨天"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bây giờ",
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "audio_text": "现在"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cùng nhau",
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "audio_text": "一起"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bởi vì",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "audio_text": "因为"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cho nên",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "audio_text": "所以"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: đã",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "audio_text": "已经"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: chuẩn bị",
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "audio_text": "准备"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: trả lời",
+      "hanzi": "回答",
+      "pinyin": "huídá",
+      "audio_text": "回答"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giúp đỡ",
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "audio_text": "帮助"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bắt đầu",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "audio_text": "开始"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: vận động",
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "audio_text": "运动"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: vấn đề",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "audio_text": "问题"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thời gian",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "audio_text": "时间"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: hy vọng",
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "audio_text": "希望"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: du lịch",
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "audio_text": "旅游"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cảm thấy",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "audio_text": "觉得"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: quan trọng",
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "audio_text": "重要"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: nên",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "audio_text": "应该"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bên ngoài",
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "audio_text": "外面"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: căn phòng",
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "audio_text": "房间"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “昨天”.",
+      "target_words": [
+        "昨天"
+      ],
+      "hint": "hôm qua"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “现在”.",
+      "target_words": [
+        "现在"
+      ],
+      "hint": "bây giờ"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “一起”.",
+      "target_words": [
+        "一起"
+      ],
+      "hint": "cùng nhau"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “因为”.",
+      "target_words": [
+        "因为"
+      ],
+      "hint": "bởi vì"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “所以”.",
+      "target_words": [
+        "所以"
+      ],
+      "hint": "cho nên"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “已经”.",
+      "target_words": [
+        "已经"
+      ],
+      "hint": "đã"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “准备”.",
+      "target_words": [
+        "准备"
+      ],
+      "hint": "chuẩn bị"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “回答”.",
+      "target_words": [
+        "回答"
+      ],
+      "hint": "trả lời"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “帮助”.",
+      "target_words": [
+        "帮助"
+      ],
+      "hint": "giúp đỡ"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “开始”.",
+      "target_words": [
+        "开始"
+      ],
+      "hint": "bắt đầu"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “运动”.",
+      "target_words": [
+        "运动"
+      ],
+      "hint": "vận động"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “问题”.",
+      "target_words": [
+        "问题"
+      ],
+      "hint": "vấn đề"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “时间”.",
+      "target_words": [
+        "时间"
+      ],
+      "hint": "thời gian"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “希望”.",
+      "target_words": [
+        "希望"
+      ],
+      "hint": "hy vọng"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “旅游”.",
+      "target_words": [
+        "旅游"
+      ],
+      "hint": "du lịch"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “觉得”.",
+      "target_words": [
+        "觉得"
+      ],
+      "hint": "cảm thấy"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “重要”.",
+      "target_words": [
+        "重要"
+      ],
+      "hint": "quan trọng"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “应该”.",
+      "target_words": [
+        "应该"
+      ],
+      "hint": "nên"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “外面”.",
+      "target_words": [
+        "外面"
+      ],
+      "hint": "bên ngoài"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “房间”.",
+      "target_words": [
+        "房间"
+      ],
+      "hint": "căn phòng"
+    }
+  ]
+}

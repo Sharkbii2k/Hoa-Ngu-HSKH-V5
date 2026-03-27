@@ -1,0 +1,1622 @@
+{
+  "level": "HSK1",
+  "premium_locked": false,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning_vi": "bạn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“你”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “你”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “你”."
+        },
+        {
+          "hanzi": "老师说“你”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “你” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “你” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "你"
+    },
+    {
+      "id": 2,
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning_vi": "tôi",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“我”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “我”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “我”."
+        },
+        {
+          "hanzi": "老师说“我”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “我” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “我” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "我"
+    },
+    {
+      "id": 3,
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning_vi": "tốt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“好”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “好”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “好”."
+        },
+        {
+          "hanzi": "老师说“好”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “好” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “好” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "好"
+    },
+    {
+      "id": 4,
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning_vi": "là",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“是”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “是”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “是”."
+        },
+        {
+          "hanzi": "老师说“是”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “是” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “是” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "是"
+    },
+    {
+      "id": 5,
+      "hanzi": "不",
+      "pinyin": "bù",
+      "meaning_vi": "không",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“不”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “不”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “不”."
+        },
+        {
+          "hanzi": "老师说“不”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “不” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “不” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "不"
+    },
+    {
+      "id": 6,
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "meaning_vi": "có",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“有”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “有”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “有”."
+        },
+        {
+          "hanzi": "老师说“有”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “有” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “有” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "有"
+    },
+    {
+      "id": 7,
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "meaning_vi": "học",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学习”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学习”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学习”."
+        },
+        {
+          "hanzi": "老师说“学习”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学习” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学习” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学习"
+    },
+    {
+      "id": 8,
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning_vi": "giáo viên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“老师”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “老师”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “老师”."
+        },
+        {
+          "hanzi": "老师说“老师”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “老师” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “老师” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "老师"
+    },
+    {
+      "id": 9,
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning_vi": "học sinh",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学生”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学生”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学生”."
+        },
+        {
+          "hanzi": "老师说“学生”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学生” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学生” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学生"
+    },
+    {
+      "id": 10,
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "meaning_vi": "Trung Quốc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“中国”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “中国”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “中国”."
+        },
+        {
+          "hanzi": "老师说“中国”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “中国” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “中国” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "中国"
+    },
+    {
+      "id": 11,
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning_vi": "cảm ơn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“谢谢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “谢谢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “谢谢”."
+        },
+        {
+          "hanzi": "老师说“谢谢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “谢谢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “谢谢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "谢谢"
+    },
+    {
+      "id": 12,
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning_vi": "tạm biệt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“再见”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “再见”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “再见”."
+        },
+        {
+          "hanzi": "老师说“再见”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “再见” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “再见” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "再见"
+    },
+    {
+      "id": 13,
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "meaning_vi": "hôm nay",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“今天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “今天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “今天”."
+        },
+        {
+          "hanzi": "老师说“今天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “今天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “今天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "今天"
+    },
+    {
+      "id": 14,
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "meaning_vi": "ngày mai",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“明天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “明天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “明天”."
+        },
+        {
+          "hanzi": "老师说“明天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “明天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “明天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "明天"
+    },
+    {
+      "id": 15,
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning_vi": "nước",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“水”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “水”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “水”."
+        },
+        {
+          "hanzi": "老师说“水”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “水” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “水” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "水"
+    },
+    {
+      "id": 16,
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "meaning_vi": "cơm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“米饭”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “米饭”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “米饭”."
+        },
+        {
+          "hanzi": "老师说“米饭”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “米饭” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “米饭” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "米饭"
+    },
+    {
+      "id": 17,
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning_vi": "táo",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“苹果”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “苹果”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “苹果”."
+        },
+        {
+          "hanzi": "老师说“苹果”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “苹果” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “苹果” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "苹果"
+    },
+    {
+      "id": 18,
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "meaning_vi": "bạn bè",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“朋友”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “朋友”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “朋友”."
+        },
+        {
+          "hanzi": "老师说“朋友”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “朋友” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “朋友” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "朋友"
+    },
+    {
+      "id": 19,
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "meaning_vi": "tên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“名字”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “名字”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “名字”."
+        },
+        {
+          "hanzi": "老师说“名字”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “名字” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “名字” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "名字"
+    },
+    {
+      "id": 20,
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "meaning_vi": "trường học",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学校”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学校”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学校”."
+        },
+        {
+          "hanzi": "老师说“学校”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学校” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学校” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学校"
+    },
+    {
+      "id": 21,
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "meaning_vi": "thích",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“喜欢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “喜欢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “喜欢”."
+        },
+        {
+          "hanzi": "老师说“喜欢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “喜欢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “喜欢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "喜欢"
+    },
+    {
+      "id": 22,
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "meaning_vi": "muốn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“想”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “想”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “想”."
+        },
+        {
+          "hanzi": "老师说“想”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “想” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “想” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "想"
+    },
+    {
+      "id": 23,
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "meaning_vi": "xem",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“看”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “看”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “看”."
+        },
+        {
+          "hanzi": "老师说“看”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “看” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “看” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "看"
+    },
+    {
+      "id": 24,
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "meaning_vi": "nghe",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“听”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “听”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “听”."
+        },
+        {
+          "hanzi": "老师说“听”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “听” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “听” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "听"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning_vi": "bạn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“你”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “你”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “你”."
+        },
+        {
+          "hanzi": "老师说“你”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “你” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “你” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "你"
+    },
+    {
+      "id": 2,
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning_vi": "tôi",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“我”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “我”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “我”."
+        },
+        {
+          "hanzi": "老师说“我”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “我” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “我” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "我"
+    },
+    {
+      "id": 3,
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning_vi": "tốt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“好”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “好”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “好”."
+        },
+        {
+          "hanzi": "老师说“好”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “好” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “好” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "好"
+    },
+    {
+      "id": 4,
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning_vi": "là",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“是”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “是”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “是”."
+        },
+        {
+          "hanzi": "老师说“是”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “是” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “是” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "是"
+    },
+    {
+      "id": 5,
+      "hanzi": "不",
+      "pinyin": "bù",
+      "meaning_vi": "không",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“不”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “不”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “不”."
+        },
+        {
+          "hanzi": "老师说“不”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “不” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “不” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "不"
+    },
+    {
+      "id": 6,
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "meaning_vi": "có",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“有”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “有”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “有”."
+        },
+        {
+          "hanzi": "老师说“有”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “有” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “有” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "有"
+    },
+    {
+      "id": 7,
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "meaning_vi": "học",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学习”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学习”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学习”."
+        },
+        {
+          "hanzi": "老师说“学习”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学习” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学习” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学习"
+    },
+    {
+      "id": 8,
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning_vi": "giáo viên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“老师”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “老师”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “老师”."
+        },
+        {
+          "hanzi": "老师说“老师”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “老师” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “老师” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "老师"
+    },
+    {
+      "id": 9,
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "meaning_vi": "học sinh",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学生”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学生”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学生”."
+        },
+        {
+          "hanzi": "老师说“学生”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学生” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学生” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学生"
+    },
+    {
+      "id": 10,
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "meaning_vi": "Trung Quốc",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“中国”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “中国”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “中国”."
+        },
+        {
+          "hanzi": "老师说“中国”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “中国” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “中国” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "中国"
+    },
+    {
+      "id": 11,
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning_vi": "cảm ơn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“谢谢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “谢谢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “谢谢”."
+        },
+        {
+          "hanzi": "老师说“谢谢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “谢谢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “谢谢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "谢谢"
+    },
+    {
+      "id": 12,
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning_vi": "tạm biệt",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“再见”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “再见”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “再见”."
+        },
+        {
+          "hanzi": "老师说“再见”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “再见” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “再见” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "再见"
+    },
+    {
+      "id": 13,
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "meaning_vi": "hôm nay",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“今天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “今天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “今天”."
+        },
+        {
+          "hanzi": "老师说“今天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “今天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “今天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "今天"
+    },
+    {
+      "id": 14,
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "meaning_vi": "ngày mai",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“明天”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “明天”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “明天”."
+        },
+        {
+          "hanzi": "老师说“明天”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “明天” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “明天” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "明天"
+    },
+    {
+      "id": 15,
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning_vi": "nước",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“水”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “水”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “水”."
+        },
+        {
+          "hanzi": "老师说“水”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “水” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “水” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "水"
+    },
+    {
+      "id": 16,
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "meaning_vi": "cơm",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“米饭”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “米饭”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “米饭”."
+        },
+        {
+          "hanzi": "老师说“米饭”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “米饭” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “米饭” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "米饭"
+    },
+    {
+      "id": 17,
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning_vi": "táo",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“苹果”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “苹果”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “苹果”."
+        },
+        {
+          "hanzi": "老师说“苹果”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “苹果” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “苹果” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "苹果"
+    },
+    {
+      "id": 18,
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "meaning_vi": "bạn bè",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“朋友”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “朋友”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “朋友”."
+        },
+        {
+          "hanzi": "老师说“朋友”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “朋友” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “朋友” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "朋友"
+    },
+    {
+      "id": 19,
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "meaning_vi": "tên",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“名字”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “名字”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “名字”."
+        },
+        {
+          "hanzi": "老师说“名字”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “名字” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “名字” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "名字"
+    },
+    {
+      "id": 20,
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "meaning_vi": "trường học",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“学校”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “学校”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “学校”."
+        },
+        {
+          "hanzi": "老师说“学校”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “学校” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “学校” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "学校"
+    },
+    {
+      "id": 21,
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "meaning_vi": "thích",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“喜欢”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “喜欢”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “喜欢”."
+        },
+        {
+          "hanzi": "老师说“喜欢”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “喜欢” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “喜欢” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "喜欢"
+    },
+    {
+      "id": 22,
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "meaning_vi": "muốn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“想”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “想”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “想”."
+        },
+        {
+          "hanzi": "老师说“想”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “想” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “想” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "想"
+    },
+    {
+      "id": 23,
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "meaning_vi": "xem",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“看”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “看”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “看”."
+        },
+        {
+          "hanzi": "老师说“看”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “看” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “看” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "看"
+    },
+    {
+      "id": 24,
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "meaning_vi": "nghe",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“听”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “听”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “听”."
+        },
+        {
+          "hanzi": "老师说“听”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “听” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “听” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK1",
+      "audio_text": "听"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "bạn",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "audio_text": "你"
+    },
+    {
+      "vi": "tôi",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "audio_text": "我"
+    },
+    {
+      "vi": "tốt",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "audio_text": "好"
+    },
+    {
+      "vi": "là",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "audio_text": "是"
+    },
+    {
+      "vi": "không",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "audio_text": "不"
+    },
+    {
+      "vi": "có",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "audio_text": "有"
+    },
+    {
+      "vi": "học",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "audio_text": "学习"
+    },
+    {
+      "vi": "giáo viên",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "audio_text": "老师"
+    },
+    {
+      "vi": "học sinh",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "audio_text": "学生"
+    },
+    {
+      "vi": "Trung Quốc",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "audio_text": "中国"
+    },
+    {
+      "vi": "cảm ơn",
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "audio_text": "谢谢"
+    },
+    {
+      "vi": "tạm biệt",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "audio_text": "再见"
+    },
+    {
+      "vi": "hôm nay",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "audio_text": "今天"
+    },
+    {
+      "vi": "ngày mai",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "audio_text": "明天"
+    },
+    {
+      "vi": "nước",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "audio_text": "水"
+    },
+    {
+      "vi": "cơm",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "audio_text": "米饭"
+    },
+    {
+      "vi": "táo",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "audio_text": "苹果"
+    },
+    {
+      "vi": "bạn bè",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "audio_text": "朋友"
+    },
+    {
+      "vi": "tên",
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "audio_text": "名字"
+    },
+    {
+      "vi": "trường học",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "audio_text": "学校"
+    },
+    {
+      "vi": "thích",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "audio_text": "喜欢"
+    },
+    {
+      "vi": "muốn",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "audio_text": "想"
+    },
+    {
+      "vi": "xem",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "audio_text": "看"
+    },
+    {
+      "vi": "nghe",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "audio_text": "听"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Chào hỏi ở lớp học",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "你好，很高兴认识你。",
+          "pinyin": "Nǐ hǎo, hěn gāoxìng rènshi nǐ.",
+          "meaning_vi": "Xin chào, rất vui được gặp bạn.",
+          "audio_text": "你好，很高兴认识你。"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我也很高兴认识你。你也学习汉语吗？",
+          "pinyin": "Wǒ yě hěn gāoxìng rènshi nǐ. Nǐ yě xuéxí Hànyǔ ma?",
+          "meaning_vi": "Tôi cũng rất vui được gặp bạn. Bạn cũng học tiếng Trung à?",
+          "audio_text": "我也很高兴认识你。你也学习汉语吗？"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "是的，我每天都学习。",
+          "pinyin": "Shì de, wǒ měitiān dōu xuéxí.",
+          "meaning_vi": "Đúng vậy, tôi học mỗi ngày.",
+          "audio_text": "是的，我每天都学习。"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "太好了，我们一起加油吧。",
+          "pinyin": "Tài hǎo le, wǒmen yìqǐ jiāyóu ba.",
+          "meaning_vi": "Tuyệt quá, chúng ta cùng cố gắng nhé.",
+          "audio_text": "太好了，我们一起加油吧。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “你”",
+      "options": [
+        "là",
+        "bạn",
+        "tốt",
+        "tôi"
+      ],
+      "answer": "bạn",
+      "explanation": "你 (nǐ) nghĩa là “bạn”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “我”",
+      "options": [
+        "bạn",
+        "tốt",
+        "là",
+        "tôi"
+      ],
+      "answer": "tôi",
+      "explanation": "我 (wǒ) nghĩa là “tôi”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “好”",
+      "options": [
+        "là",
+        "tốt",
+        "tôi",
+        "bạn"
+      ],
+      "answer": "tốt",
+      "explanation": "好 (hǎo) nghĩa là “tốt”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “是”",
+      "options": [
+        "tôi",
+        "là",
+        "tốt",
+        "bạn"
+      ],
+      "answer": "là",
+      "explanation": "是 (shì) nghĩa là “là”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “不”",
+      "options": [
+        "không",
+        "bạn",
+        "tốt",
+        "tôi"
+      ],
+      "answer": "không",
+      "explanation": "不 (bù) nghĩa là “không”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “有”",
+      "options": [
+        "tốt",
+        "tôi",
+        "bạn",
+        "có"
+      ],
+      "answer": "có",
+      "explanation": "有 (yǒu) nghĩa là “có”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “学习”",
+      "options": [
+        "tốt",
+        "bạn",
+        "học",
+        "tôi"
+      ],
+      "answer": "học",
+      "explanation": "学习 (xuéxí) nghĩa là “học”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “老师”",
+      "options": [
+        "giáo viên",
+        "tôi",
+        "tốt",
+        "bạn"
+      ],
+      "answer": "giáo viên",
+      "explanation": "老师 (lǎoshī) nghĩa là “giáo viên”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bạn",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "audio_text": "你"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tôi",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "audio_text": "我"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tốt",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "audio_text": "好"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: là",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "audio_text": "是"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: không",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "audio_text": "不"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: có",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "audio_text": "有"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: học",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "audio_text": "学习"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: giáo viên",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "audio_text": "老师"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: học sinh",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "audio_text": "学生"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: Trung Quốc",
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "audio_text": "中国"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cảm ơn",
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "audio_text": "谢谢"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tạm biệt",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "audio_text": "再见"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: hôm nay",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "audio_text": "今天"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: ngày mai",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "audio_text": "明天"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: nước",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "audio_text": "水"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: cơm",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "audio_text": "米饭"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: táo",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "audio_text": "苹果"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bạn bè",
+      "hanzi": "朋友",
+      "pinyin": "péngyou",
+      "audio_text": "朋友"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tên",
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "audio_text": "名字"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: trường học",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "audio_text": "学校"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thích",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "audio_text": "喜欢"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: muốn",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "audio_text": "想"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: xem",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "audio_text": "看"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: nghe",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "audio_text": "听"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “你”.",
+      "target_words": [
+        "你"
+      ],
+      "hint": "bạn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “我”.",
+      "target_words": [
+        "我"
+      ],
+      "hint": "tôi"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “好”.",
+      "target_words": [
+        "好"
+      ],
+      "hint": "tốt"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “是”.",
+      "target_words": [
+        "是"
+      ],
+      "hint": "là"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “不”.",
+      "target_words": [
+        "不"
+      ],
+      "hint": "không"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “有”.",
+      "target_words": [
+        "有"
+      ],
+      "hint": "có"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “学习”.",
+      "target_words": [
+        "学习"
+      ],
+      "hint": "học"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “老师”.",
+      "target_words": [
+        "老师"
+      ],
+      "hint": "giáo viên"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “学生”.",
+      "target_words": [
+        "学生"
+      ],
+      "hint": "học sinh"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “中国”.",
+      "target_words": [
+        "中国"
+      ],
+      "hint": "Trung Quốc"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “谢谢”.",
+      "target_words": [
+        "谢谢"
+      ],
+      "hint": "cảm ơn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “再见”.",
+      "target_words": [
+        "再见"
+      ],
+      "hint": "tạm biệt"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “今天”.",
+      "target_words": [
+        "今天"
+      ],
+      "hint": "hôm nay"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “明天”.",
+      "target_words": [
+        "明天"
+      ],
+      "hint": "ngày mai"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “水”.",
+      "target_words": [
+        "水"
+      ],
+      "hint": "nước"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “米饭”.",
+      "target_words": [
+        "米饭"
+      ],
+      "hint": "cơm"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “苹果”.",
+      "target_words": [
+        "苹果"
+      ],
+      "hint": "táo"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “朋友”.",
+      "target_words": [
+        "朋友"
+      ],
+      "hint": "bạn bè"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “名字”.",
+      "target_words": [
+        "名字"
+      ],
+      "hint": "tên"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “学校”.",
+      "target_words": [
+        "学校"
+      ],
+      "hint": "trường học"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “喜欢”.",
+      "target_words": [
+        "喜欢"
+      ],
+      "hint": "thích"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “想”.",
+      "target_words": [
+        "想"
+      ],
+      "hint": "muốn"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “看”.",
+      "target_words": [
+        "看"
+      ],
+      "hint": "xem"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “听”.",
+      "target_words": [
+        "听"
+      ],
+      "hint": "nghe"
+    }
+  ]
+}

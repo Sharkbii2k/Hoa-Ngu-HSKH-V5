@@ -1,0 +1,836 @@
+{
+  "level": "HSK6",
+  "premium_locked": true,
+  "typing_practice": [
+    {
+      "id": 1,
+      "hanzi": "本质",
+      "pinyin": "běnzhì",
+      "meaning_vi": "bản chất",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“本质”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “本质”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “本质”."
+        },
+        {
+          "hanzi": "老师说“本质”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “本质” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “本质” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "本质"
+    },
+    {
+      "id": 2,
+      "hanzi": "辩论",
+      "pinyin": "biànlùn",
+      "meaning_vi": "tranh luận",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“辩论”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “辩论”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “辩论”."
+        },
+        {
+          "hanzi": "老师说“辩论”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “辩论” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “辩论” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "辩论"
+    },
+    {
+      "id": 3,
+      "hanzi": "部署",
+      "pinyin": "bùshǔ",
+      "meaning_vi": "triển khai",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“部署”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “部署”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “部署”."
+        },
+        {
+          "hanzi": "老师说“部署”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “部署” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “部署” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "部署"
+    },
+    {
+      "id": 4,
+      "hanzi": "财政",
+      "pinyin": "cáizhèng",
+      "meaning_vi": "tài chính",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“财政”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “财政”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “财政”."
+        },
+        {
+          "hanzi": "老师说“财政”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “财政” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “财政” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "财政"
+    },
+    {
+      "id": 5,
+      "hanzi": "策略",
+      "pinyin": "cèlüè",
+      "meaning_vi": "chiến lược",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“策略”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “策略”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “策略”."
+        },
+        {
+          "hanzi": "老师说“策略”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “策略” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “策略” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "策略"
+    },
+    {
+      "id": 6,
+      "hanzi": "阐述",
+      "pinyin": "chǎnshù",
+      "meaning_vi": "trình bày",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“阐述”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “阐述”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “阐述”."
+        },
+        {
+          "hanzi": "老师说“阐述”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “阐述” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “阐述” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "阐述"
+    },
+    {
+      "id": 7,
+      "hanzi": "倡导",
+      "pinyin": "chàngdǎo",
+      "meaning_vi": "khởi xướng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“倡导”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “倡导”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “倡导”."
+        },
+        {
+          "hanzi": "老师说“倡导”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “倡导” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “倡导” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "倡导"
+    },
+    {
+      "id": 8,
+      "hanzi": "成就",
+      "pinyin": "chéngjiù",
+      "meaning_vi": "thành tựu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“成就”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “成就”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “成就”."
+        },
+        {
+          "hanzi": "老师说“成就”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “成就” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “成就” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "成就"
+    },
+    {
+      "id": 9,
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "meaning_vi": "trật tự",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“秩序”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “秩序”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “秩序”."
+        },
+        {
+          "hanzi": "老师说“秩序”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “秩序” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “秩序” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "秩序"
+    },
+    {
+      "id": 10,
+      "hanzi": "综合",
+      "pinyin": "zōnghé",
+      "meaning_vi": "tổng hợp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“综合”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “综合”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “综合”."
+        },
+        {
+          "hanzi": "老师说“综合”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “综合” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “综合” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "综合"
+    },
+    {
+      "id": 11,
+      "hanzi": "视角",
+      "pinyin": "shìjiǎo",
+      "meaning_vi": "góc nhìn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“视角”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “视角”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “视角”."
+        },
+        {
+          "hanzi": "老师说“视角”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “视角” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “视角” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "视角"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "hanzi": "本质",
+      "pinyin": "běnzhì",
+      "meaning_vi": "bản chất",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“本质”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “本质”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “本质”."
+        },
+        {
+          "hanzi": "老师说“本质”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “本质” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “本质” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "本质"
+    },
+    {
+      "id": 2,
+      "hanzi": "辩论",
+      "pinyin": "biànlùn",
+      "meaning_vi": "tranh luận",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“辩论”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “辩论”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “辩论”."
+        },
+        {
+          "hanzi": "老师说“辩论”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “辩论” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “辩论” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "辩论"
+    },
+    {
+      "id": 3,
+      "hanzi": "部署",
+      "pinyin": "bùshǔ",
+      "meaning_vi": "triển khai",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“部署”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “部署”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “部署”."
+        },
+        {
+          "hanzi": "老师说“部署”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “部署” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “部署” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "部署"
+    },
+    {
+      "id": 4,
+      "hanzi": "财政",
+      "pinyin": "cáizhèng",
+      "meaning_vi": "tài chính",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“财政”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “财政”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “财政”."
+        },
+        {
+          "hanzi": "老师说“财政”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “财政” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “财政” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "财政"
+    },
+    {
+      "id": 5,
+      "hanzi": "策略",
+      "pinyin": "cèlüè",
+      "meaning_vi": "chiến lược",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“策略”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “策略”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “策略”."
+        },
+        {
+          "hanzi": "老师说“策略”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “策略” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “策略” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "策略"
+    },
+    {
+      "id": 6,
+      "hanzi": "阐述",
+      "pinyin": "chǎnshù",
+      "meaning_vi": "trình bày",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“阐述”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “阐述”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “阐述”."
+        },
+        {
+          "hanzi": "老师说“阐述”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “阐述” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “阐述” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "阐述"
+    },
+    {
+      "id": 7,
+      "hanzi": "倡导",
+      "pinyin": "chàngdǎo",
+      "meaning_vi": "khởi xướng",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“倡导”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “倡导”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “倡导”."
+        },
+        {
+          "hanzi": "老师说“倡导”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “倡导” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “倡导” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "倡导"
+    },
+    {
+      "id": 8,
+      "hanzi": "成就",
+      "pinyin": "chéngjiù",
+      "meaning_vi": "thành tựu",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“成就”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “成就”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “成就”."
+        },
+        {
+          "hanzi": "老师说“成就”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “成就” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “成就” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "成就"
+    },
+    {
+      "id": 9,
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "meaning_vi": "trật tự",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“秩序”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “秩序”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “秩序”."
+        },
+        {
+          "hanzi": "老师说“秩序”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “秩序” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “秩序” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "秩序"
+    },
+    {
+      "id": 10,
+      "hanzi": "综合",
+      "pinyin": "zōnghé",
+      "meaning_vi": "tổng hợp",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“综合”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “综合”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “综合”."
+        },
+        {
+          "hanzi": "老师说“综合”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “综合” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “综合” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "综合"
+    },
+    {
+      "id": 11,
+      "hanzi": "视角",
+      "pinyin": "shìjiǎo",
+      "meaning_vi": "góc nhìn",
+      "examples": [
+        {
+          "hanzi": "我想认真学习“视角”。",
+          "pinyin": "Wǒ xiǎng rènzhēn xuéxí “视角”.",
+          "meaning_vi": "Tôi muốn học nghiêm túc từ “视角”."
+        },
+        {
+          "hanzi": "老师说“视角”在考试里很常见。",
+          "pinyin": "Lǎoshī shuō “视角” zài kǎoshì lǐ hěn chángjiàn.",
+          "meaning_vi": "Giáo viên nói “视角” rất hay gặp trong bài thi."
+        }
+      ],
+      "synonyms": [],
+      "notes": "Mục từ phù hợp cấp HSK6",
+      "audio_text": "视角"
+    }
+  ],
+  "reflection": [
+    {
+      "vi": "bản chất",
+      "hanzi": "本质",
+      "pinyin": "běnzhì",
+      "audio_text": "本质"
+    },
+    {
+      "vi": "tranh luận",
+      "hanzi": "辩论",
+      "pinyin": "biànlùn",
+      "audio_text": "辩论"
+    },
+    {
+      "vi": "triển khai",
+      "hanzi": "部署",
+      "pinyin": "bùshǔ",
+      "audio_text": "部署"
+    },
+    {
+      "vi": "tài chính",
+      "hanzi": "财政",
+      "pinyin": "cáizhèng",
+      "audio_text": "财政"
+    },
+    {
+      "vi": "chiến lược",
+      "hanzi": "策略",
+      "pinyin": "cèlüè",
+      "audio_text": "策略"
+    },
+    {
+      "vi": "trình bày",
+      "hanzi": "阐述",
+      "pinyin": "chǎnshù",
+      "audio_text": "阐述"
+    },
+    {
+      "vi": "khởi xướng",
+      "hanzi": "倡导",
+      "pinyin": "chàngdǎo",
+      "audio_text": "倡导"
+    },
+    {
+      "vi": "thành tựu",
+      "hanzi": "成就",
+      "pinyin": "chéngjiù",
+      "audio_text": "成就"
+    },
+    {
+      "vi": "trật tự",
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "audio_text": "秩序"
+    },
+    {
+      "vi": "tổng hợp",
+      "hanzi": "综合",
+      "pinyin": "zōnghé",
+      "audio_text": "综合"
+    },
+    {
+      "vi": "góc nhìn",
+      "hanzi": "视角",
+      "pinyin": "shìjiǎo",
+      "audio_text": "视角"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "Hội thoại HSK6",
+      "conversation": [
+        {
+          "speaker": "A",
+          "hanzi": "最近你的学习进展怎么样？",
+          "pinyin": "Zuìjìn nǐ de xuéxí jìnzhǎn zěnmeyàng?",
+          "meaning_vi": "Gần đây tiến độ học của bạn thế nào?",
+          "audio_text": "最近你的学习进展怎么样？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我按照计划复习词汇、阅读和听力，感觉稳步提高。",
+          "pinyin": "Wǒ ànzhào jìhuà fùxí cíhuì, yuèdú hé tīnglì, gǎnjué wěnbù tígāo.",
+          "meaning_vi": "Tôi ôn từ vựng, đọc và nghe theo kế hoạch, cảm thấy tiến bộ đều.",
+          "audio_text": "我按照计划复习词汇、阅读和听力，感觉稳步提高。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "如果遇到困难，你会怎么调整学习方法？",
+          "pinyin": "Rúguǒ yùdào kùnnan, nǐ huì zěnme tiáozhěng xuéxí fāngfǎ?",
+          "meaning_vi": "Nếu gặp khó khăn, bạn sẽ điều chỉnh phương pháp học thế nào?",
+          "audio_text": "如果遇到困难，你会怎么调整学习方法？"
+        },
+        {
+          "speaker": "B",
+          "hanzi": "我会先分析问题，再请教老师，同时增加练习量。",
+          "pinyin": "Wǒ huì xiān fēnxī wèntí, zài qǐngjiào lǎoshī, tóngshí zēngjiā liànxí liàng.",
+          "meaning_vi": "Tôi sẽ phân tích vấn đề trước, rồi hỏi giáo viên, đồng thời tăng lượng luyện tập.",
+          "audio_text": "我会先分析问题，再请教老师，同时增加练习量。"
+        },
+        {
+          "speaker": "A",
+          "hanzi": "这样坚持下去，一定会取得更好的效果。",
+          "pinyin": "Zhèyàng jiānchí xiàqù, yídìng huì qǔdé gèng hǎo de xiàoguǒ.",
+          "meaning_vi": "Kiên trì như vậy chắc chắn sẽ đạt kết quả tốt hơn.",
+          "audio_text": "这样坚持下去，一定会取得更好的效果。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “本质”",
+      "options": [
+        "tài chính",
+        "bản chất",
+        "triển khai",
+        "tranh luận"
+      ],
+      "answer": "bản chất",
+      "explanation": "本质 (běnzhì) nghĩa là “bản chất”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “辩论”",
+      "options": [
+        "bản chất",
+        "triển khai",
+        "tài chính",
+        "tranh luận"
+      ],
+      "answer": "tranh luận",
+      "explanation": "辩论 (biànlùn) nghĩa là “tranh luận”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “部署”",
+      "options": [
+        "tài chính",
+        "triển khai",
+        "tranh luận",
+        "bản chất"
+      ],
+      "answer": "triển khai",
+      "explanation": "部署 (bùshǔ) nghĩa là “triển khai”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “财政”",
+      "options": [
+        "tranh luận",
+        "tài chính",
+        "triển khai",
+        "bản chất"
+      ],
+      "answer": "tài chính",
+      "explanation": "财政 (cáizhèng) nghĩa là “tài chính”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “策略”",
+      "options": [
+        "chiến lược",
+        "bản chất",
+        "triển khai",
+        "tranh luận"
+      ],
+      "answer": "chiến lược",
+      "explanation": "策略 (cèlüè) nghĩa là “chiến lược”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “阐述”",
+      "options": [
+        "triển khai",
+        "tranh luận",
+        "bản chất",
+        "trình bày"
+      ],
+      "answer": "trình bày",
+      "explanation": "阐述 (chǎnshù) nghĩa là “trình bày”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “倡导”",
+      "options": [
+        "triển khai",
+        "bản chất",
+        "khởi xướng",
+        "tranh luận"
+      ],
+      "answer": "khởi xướng",
+      "explanation": "倡导 (chàngdǎo) nghĩa là “khởi xướng”."
+    },
+    {
+      "type": "single_choice",
+      "question": "Chọn nghĩa đúng của “成就”",
+      "options": [
+        "thành tựu",
+        "tranh luận",
+        "triển khai",
+        "bản chất"
+      ],
+      "answer": "thành tựu",
+      "explanation": "成就 (chéngjiù) nghĩa là “thành tựu”."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Điền từ phù hợp vào chỗ trống.",
+      "sentence": "我___学习汉语。",
+      "answer": "喜欢",
+      "accepted_answers": [
+        "喜欢",
+        "想"
+      ],
+      "explanation": "Câu thể hiện sở thích hoặc mong muốn học tiếng Trung."
+    }
+  ],
+  "listening": [
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: bản chất",
+      "hanzi": "本质",
+      "pinyin": "běnzhì",
+      "audio_text": "本质"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tranh luận",
+      "hanzi": "辩论",
+      "pinyin": "biànlùn",
+      "audio_text": "辩论"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: triển khai",
+      "hanzi": "部署",
+      "pinyin": "bùshǔ",
+      "audio_text": "部署"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tài chính",
+      "hanzi": "财政",
+      "pinyin": "cáizhèng",
+      "audio_text": "财政"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: chiến lược",
+      "hanzi": "策略",
+      "pinyin": "cèlüè",
+      "audio_text": "策略"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: trình bày",
+      "hanzi": "阐述",
+      "pinyin": "chǎnshù",
+      "audio_text": "阐述"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: khởi xướng",
+      "hanzi": "倡导",
+      "pinyin": "chàngdǎo",
+      "audio_text": "倡导"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: thành tựu",
+      "hanzi": "成就",
+      "pinyin": "chéngjiù",
+      "audio_text": "成就"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: trật tự",
+      "hanzi": "秩序",
+      "pinyin": "zhìxù",
+      "audio_text": "秩序"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: tổng hợp",
+      "hanzi": "综合",
+      "pinyin": "zōnghé",
+      "audio_text": "综合"
+    },
+    {
+      "prompt_vi": "Nghe và phản xạ với từ/câu có nghĩa: góc nhìn",
+      "hanzi": "视角",
+      "pinyin": "shìjiǎo",
+      "audio_text": "视角"
+    }
+  ],
+  "speaking_tasks": [
+    {
+      "prompt_vi": "Đặt 1 câu với “本质”.",
+      "target_words": [
+        "本质"
+      ],
+      "hint": "bản chất"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “辩论”.",
+      "target_words": [
+        "辩论"
+      ],
+      "hint": "tranh luận"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “部署”.",
+      "target_words": [
+        "部署"
+      ],
+      "hint": "triển khai"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “财政”.",
+      "target_words": [
+        "财政"
+      ],
+      "hint": "tài chính"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “策略”.",
+      "target_words": [
+        "策略"
+      ],
+      "hint": "chiến lược"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “阐述”.",
+      "target_words": [
+        "阐述"
+      ],
+      "hint": "trình bày"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “倡导”.",
+      "target_words": [
+        "倡导"
+      ],
+      "hint": "khởi xướng"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “成就”.",
+      "target_words": [
+        "成就"
+      ],
+      "hint": "thành tựu"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “秩序”.",
+      "target_words": [
+        "秩序"
+      ],
+      "hint": "trật tự"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “综合”.",
+      "target_words": [
+        "综合"
+      ],
+      "hint": "tổng hợp"
+    },
+    {
+      "prompt_vi": "Đặt 1 câu với “视角”.",
+      "target_words": [
+        "视角"
+      ],
+      "hint": "góc nhìn"
+    }
+  ]
+}
