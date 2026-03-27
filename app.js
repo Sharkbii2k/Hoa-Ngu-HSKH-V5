@@ -70,12 +70,37 @@ $('#loginBtn').addEventListener('click', async () => {
       return;
     }
 
-    toast(profile?.role === 'admin' ? 'Đăng nhập Admin thành công.' : 'Đăng nhập thành công.');
+$('#loginBtn').addEventListener('click', async () => {
+  const email = $('#loginEmail')?.value?.trim();
+  const password = $('#loginPassword')?.value?.trim();
+
+  if (!email || !password) {
+    toast('Vui lòng nhập email và mật khẩu.');
+    return;
+  }
+
+  try {
+    const userCred = await auth.signInWithEmailAndPassword(email, password);
+    const uid = userCred.user.uid;
+
+    const doc = await db.collection('users').doc(uid).get();
+    const profile = doc.exists ? doc.data() : null;
+
+    if (profile && profile.status === 'locked') {
+      await auth.signOut();
+      toast('Tài khoản của bạn đang bị khóa.');
+      return;
+    }
+
+    toast(
+      profile?.role === 'admin'
+        ? 'Đăng nhập Admin thành công.'
+        : 'Đăng nhập thành công.'
+    );
   } catch (err) {
-catch (err) {
-  console.log("LOGIN ERROR:", err);
-  toast(err.message);
-}
+    console.log('LOGIN ERROR:', err);
+    toast(err.message || 'Đăng nhập thất bại.');
+  }
 });
 
 function getChineseVoice() {
